@@ -1,0 +1,58 @@
+HI PLATE NON-COMMERCIAL OPEN SOURCE LICENSE
+Version 1.0, September 2024
+
+Copyright (c) 2024 Mariano Oblitas (alias vr700)
+Application: Hi Plate
+
+TERMS AND CONDITIONS:
+
+1. ATTRIBUTION REQUIRED:
+   Any use of this software must prominently include:
+   - Author name: "Mariano Oblitas (vr700)"
+   - Reference to original application: "Hi Plate"
+   - Link or reference to the original repository
+
+2. NON-COMMERCIAL USE:
+   This software and its data cannot be used for commercial purposes.
+   Prohibited use in applications, services, or products intended for commercial gain.
+
+3. SHARE ALIKE:
+   If you modify, transform, or build upon this software, you must distribute
+   your contributions under the same license terms.
+
+4. DEPENDENCIES AND THIRD-PARTY SOFTWARE:
+   This project uses the following dependencies under their respective licenses:
+   
+   MAIN DEPENDENCIES:
+   - React (MIT License)
+   - TypeScript (Apache License 2.0)
+   - Vite (MIT License)
+   - Radix UI (MIT License)
+   - Tailwind CSS (MIT License)
+   - Lucide React (ISC License)
+   - Zod (MIT License)
+   - React Router DOM (MIT License)
+   - TanStack React Query (MIT License)
+   - Recharts (MIT License)
+   
+   Complete licenses for each dependency are available in their respective
+   repositories and must be respected according to their terms.
+
+5. RIGHTS AND OBLIGATIONS:
+   Permission is granted to use, copy, modify, and distribute the software
+   only under the terms of this license.
+
+6. RESTRICTIONS:
+   - Cannot be used for commercial applications
+   - Cannot be used to process data for commercial purposes
+   - Derivative source code must remain open source
+   - Attribution to original author must be maintained in all versions
+
+7. DISCLAIMER:
+   THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTIES OF ANY KIND.
+
+For questions about this license: [your email or repository]
+
+---
+This license is inspired by open source principles but with non-commercial
+use restrictions and specific attribution requirements.
