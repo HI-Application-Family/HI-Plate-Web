@@ -14,5 +14,5 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./src"),
     },
   },
-  plugins: [react()], // 👈 ¡No olvides los plugins!
+  plugins: [react()], 
 }));
