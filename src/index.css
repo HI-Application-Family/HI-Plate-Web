@@ -1,0 +1,109 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Hi Plate Design System - All colors, gradients, fonts, etc defined here. 
+All colors MUST be HSL. */
+
+@layer base {
+  :root {
+    /* Dark theme background */
+    --background: 220 15% 10%;
+    --foreground: 0 0% 98%;
+
+    --card: 220 15% 12%;
+    --card-foreground: 0 0% 98%;
+
+    --popover: 220 15% 12%;
+    --popover-foreground: 0 0% 98%;
+
+    --primary: 0 0% 98%;
+    --primary-foreground: 220 15% 10%;
+
+    --secondary: 220 15% 15%;
+    --secondary-foreground: 0 0% 98%;
+
+    --muted: 220 15% 15%;
+    --muted-foreground: 0 0% 70%;
+
+    --accent: 220 15% 15%;
+    --accent-foreground: 0 0% 98%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+
+    --border: 220 15% 20%;
+    --input: 220 15% 20%;
+    --ring: 220 15% 25%;
+
+    --radius: 1rem;
+
+/* Hi Plate Color System */
+--hiplate-yellow: 218 16% 22%; 
+--hiplate-green: 222 14% 20%;
+--hiplate-teal: 224 17% 18%;
+--hiplate-pink: 220 18% 16%;  
+--hiplate-purple: 216 13% 15%; 
+--hiplate-orange: 226 15% 20%;
+--hiplate-red: 219 16% 22%;    
+
+/* Gradients for day stripes */
+--gradient-monday: linear-gradient(135deg, hsl(220 15% 10%), hsl(var(--hiplate-yellow)));  
+--gradient-tuesday: linear-gradient(135deg, hsl(220 15% 10%), hsl(var(--hiplate-orange)));
+--gradient-wednesday: linear-gradient(135deg, hsl(220 15% 10%), hsl(var(--hiplate-green)));
+--gradient-thursday: linear-gradient(135deg, hsl(220 15% 10%), hsl(var(--hiplate-teal)));
+--gradient-friday: linear-gradient(135deg, hsl(220 15% 10%), hsl(var(--hiplate-pink)));   
+--gradient-saturday: linear-gradient(135deg, hsl(220 15% 10%), hsl(var(--hiplate-purple)));
+--gradient-sunday: linear-gradient(135deg, hsl(220 15% 10%), hsl(var(--hiplate-red)));    
+
+    /* Animation durations */
+    --transition-smooth: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-slide: transform 0.6s cubic-bezier(0.4, 0, 0.2, 1);
+    --transition-slow: 0.5s;
+  }
+}
+
+.bg-striped-gray {
+  background-color: rgba(255, 255, 255, 0.01);
+  background-image:
+    radial-gradient(rgba(255, 255, 255, 0.04) 1px, transparent 1px);
+  background-size: 20px 20px;
+}
+
+.scroll-container {
+  scroll-behavior: smooth;
+}
+
+
+/* Custom scrollbar styles */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for horizontal scroll */
+.scrollbar-hidden {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.scrollbar-hidden::-webkit-scrollbar {
+  display: none;
+  width: 0px;
+  height: 0px;
+  background: transparent;
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
