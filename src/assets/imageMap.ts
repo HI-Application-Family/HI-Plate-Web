@@ -60,6 +60,67 @@ import wok_pollo_vegetales from '@/assets/wok-pollo-vegetales.png?url';
 import pollo_papas_horno from '@/assets/pollo-papas-horno.png?url';
 import pasta_pollo_tomate from '@/assets/pasta-pollo-tomate.png?url';
 
+import w_bistec_a_la_plancha from '@/assets/bistec-a-la-plancha.webp?url';
+import w_carne_guisada from '@/assets/carne-guisada.webp?url';
+import w_albondigas_de_res from '@/assets/albondigas-de-res.webp?url';
+import w_carne_al_horno_con_papas from '@/assets/carne-al-horno-con-papas.webp?url';
+import w_tacos_de_carne from '@/assets/tacos-de-carne.webp?url';
+import w_bolonesa from '@/assets/bolonesa.webp?url';
+import w_carne_con_brocoli from '@/assets/carne-con-brocoli.webp?url';
+import w_estofado_de_res from '@/assets/estofado-de-res.webp?url';
+import w_fajitas_de_res from '@/assets/fajitas-de-res.webp?url';
+import w_pechuga_a_la_plancha_con_arroz from '@/assets/pechuga-a-la-plancha-con-arroz.webp?url';
+import w_pollo_al_horno_con_arroz from '@/assets/pollo-al-horno-con-arroz.webp?url';
+import w_salteado_de_pollo from '@/assets/salteado-de-pollo.webp?url';
+import w_brochetas_de_pollo from '@/assets/brochetas-de-pollo.webp?url';
+import w_pollo_al_ajillo from '@/assets/pollo-al-ajillo.webp?url';
+import w_pollo_agridulce from '@/assets/pollo-agridulce.webp?url';
+import w_pollo_con_limon from '@/assets/pollo-con-limon.webp?url';
+import w_tacos_de_pollo from '@/assets/tacos-de-pollo.webp?url';
+import w_pollo_a_la_naranja from '@/assets/pollo-a-la-naranja.webp?url';
+import w_pollo_teriyaki from '@/assets/pollo-teriyaki.webp?url';
+import w_pincho_moruno from '@/assets/pincho-moruno.webp?url';
+import w_pollo_con_brocoli from '@/assets/pollo-con-brocoli.webp?url';
+import w_pavo_a_la_plancha from '@/assets/pavo-a-la-plancha.webp?url';
+import w_pollo_champinones from '@/assets/pollo-champinones.webp?url';
+import w_alitas_horno from '@/assets/alitas-horno.webp?url';
+import w_pollo_empanizado from '@/assets/pollo-empanizado.webp?url';
+import w_milanesa_res from '@/assets/milanesa-res.webp?url';
+import w_trucha_frita from '@/assets/trucha-frita.webp?url';
+import w_lomo_saltado from '@/assets/lomo-saltado.webp?url';
+import w_milanesa_pollo_horno from '@/assets/milanesa-pollo-horno.webp?url';
+import w_asado_de_tira_con_ensalada from '@/assets/asado-de-tira-con-ensalada.webp?url';
+import w_hamburguesa_res from '@/assets/hamburguesa-res.webp?url';
+import w_fettuccini_alfredo from '@/assets/fettuccini-alfredo.webp?url';
+import w_espagueti_pesto_carne from '@/assets/espagueti-pesto-carne.webp?url';
+import w_espagueti_bolonesa from '@/assets/espagueti-bolonesa.webp?url';
+import w_espagueti_bistec_bechamel from '@/assets/espagueti-bistec-bechamel.webp?url';
+import w_pescado_a_la_plancha from '@/assets/pescado-a-la-plancha.webp?url';
+import w_salmon_al_horno from '@/assets/salmon-al-horno.webp?url';
+import w_tilapia_esparragos from '@/assets/tilapia-esparragos.webp?url';
+import w_salmon_teriyaki from '@/assets/salmon-teriyaki.webp?url';
+import w_pulpo_parrilla from '@/assets/pulpo-parrilla.webp?url';
+import w_lentejas_pescado from '@/assets/lentejas-pescado.webp?url';
+import w_ensalada_lentejas_atun from '@/assets/ensalada-lentejas-atun.webp?url';
+import w_arvejas_pescado from '@/assets/arvejas-pescado.webp?url';
+import w_pure_arvejas_salmon from '@/assets/pure-arvejas-salmon.webp?url';
+import w_frejoles_pescado from '@/assets/frejoles-pescado.webp?url';
+import w_frejoles_pescado_frito from '@/assets/frejoles-pescado-frito.webp?url';
+import w_frejoles_tilapia from '@/assets/frejoles-tilapia.webp?url';
+import w_frejoles_canarios_pescado from '@/assets/frejoles-canarios-pescado.webp?url';
+import w_frejoles_atun_perejil from '@/assets/frejoles-atun-perejil.webp?url';
+import w_garbanzos_atun_espinacas from '@/assets/garbanzos-atun-espinacas.webp?url';
+import w_ensalada_cesar_pollo from '@/assets/ensalada-cesar-pollo.webp?url';
+import w_ensalada_pollo_aguacate from '@/assets/ensalada-pollo-aguacate.webp?url';
+import w_ensalada_pollo_limon from '@/assets/ensalada-pollo-limon.webp?url';
+import w_ensalada_pollo_brocoli from '@/assets/ensalada-pollo-brocoli.webp?url';
+import w_ensalada_huevo_duro from '@/assets/ensalada-huevo-duro.webp?url';
+import w_ensalada_caprese from '@/assets/ensalada-caprese.webp?url';
+import w_ensalada_pollo_pasta from '@/assets/ensalada-pollo-pasta.webp?url';
+import w_tallarines_pollo_pesto from '@/assets/tallarines-pollo-pesto.webp?url';
+import w_wok_pollo_vegetales from '@/assets/wok-pollo-vegetales.webp?url';
+import w_pollo_papas_horno from '@/assets/pollo-papas-horno.webp?url';
+import w_pasta_pollo_tomate from '@/assets/pasta-pollo-tomate.webp?url';
 
 export const imageMap: { [key: string]: string } = {
   'bistec-a-la-plancha.png': bistec_a_la_plancha,
@@ -123,4 +184,65 @@ export const imageMap: { [key: string]: string } = {
   'wok-pollo-vegetales.png': wok_pollo_vegetales,
   'pollo-papas-horno.png': pollo_papas_horno,
   'pasta-pollo-tomate.png': pasta_pollo_tomate,
+    'bistec-a-la-plancha.webp': w_bistec_a_la_plancha,
+  'carne-guisada.webp': w_carne_guisada,
+  'albondigas-de-res.webp': w_albondigas_de_res,
+  'carne-al-horno-con-papas.webp': w_carne_al_horno_con_papas,
+  'tacos-de-carne.webp': w_tacos_de_carne,
+  'bolonesa.webp': w_bolonesa,
+  'carne-con-brocoli.webp': w_carne_con_brocoli,
+  'estofado-de-res.webp': w_estofado_de_res,
+  'fajitas-de-res.webp': w_fajitas_de_res,
+  'pechuga-a-la-plancha-con-arroz.webp': w_pechuga_a_la_plancha_con_arroz,
+  'pollo-al-horno-con-arroz.webp': w_pollo_al_horno_con_arroz,
+  'salteado-de-pollo.webp': w_salteado_de_pollo,
+  'brochetas-de-pollo.webp': w_brochetas_de_pollo,
+  'pollo-al-ajillo.webp': w_pollo_al_ajillo,
+  'pollo-agridulce.webp': w_pollo_agridulce,
+  'pollo-con-limon.webp': w_pollo_con_limon,
+  'tacos-de-pollo.webp': w_tacos_de_pollo,
+  'pollo-a-la-naranja.webp': w_pollo_a_la_naranja,
+  'pollo-teriyaki.webp': w_pollo_teriyaki,
+  'pincho-moruno.webp': w_pincho_moruno,
+  'pollo-con-brocoli.webp': w_pollo_con_brocoli,
+  'pavo-a-la-plancha.webp': w_pavo_a_la_plancha,
+  'pollo-champinones.webp': w_pollo_champinones,
+  'alitas-horno.webp': w_alitas_horno,
+  'pollo-empanizado.webp': w_pollo_empanizado,
+  'milanesa-res.webp': w_milanesa_res,
+  'trucha-frita.webp': w_trucha_frita,
+  'lomo-saltado.webp': w_lomo_saltado,
+  'milanesa-pollo-horno.webp': w_milanesa_pollo_horno,
+  'asado-de-tira-con-ensalada.webp': w_asado_de_tira_con_ensalada,
+  'hamburguesa-res.webp': w_hamburguesa_res,
+  'fettuccini-alfredo.webp': w_fettuccini_alfredo,
+  'espagueti-pesto-carne.webp': w_espagueti_pesto_carne,
+  'espagueti-bolonesa.webp': w_espagueti_bolonesa,
+  'espagueti-bistec-bechamel.webp': w_espagueti_bistec_bechamel,
+  'pescado-a-la-plancha.webp': w_pescado_a_la_plancha,
+  'salmon-al-horno.webp': w_salmon_al_horno,
+  'tilapia-esparragos.webp': w_tilapia_esparragos,
+  'salmon-teriyaki.webp': w_salmon_teriyaki,
+  'pulpo-parrilla.webp': w_pulpo_parrilla,
+  'lentejas-pescado.webp': w_lentejas_pescado,
+  'ensalada-lentejas-atun.webp': w_ensalada_lentejas_atun,
+  'arvejas-pescado.webp': w_arvejas_pescado,
+  'pure-arvejas-salmon.webp': w_pure_arvejas_salmon,
+  'frejoles-pescado.webp': w_frejoles_pescado,
+  'frejoles-pescado-frito.webp': w_frejoles_pescado_frito,
+  'frejoles-tilapia.webp': w_frejoles_tilapia,
+  'frejoles-canarios-pescado.webp': w_frejoles_canarios_pescado,
+  'frejoles-atun-perejil.webp': w_frejoles_atun_perejil,
+  'garbanzos-atun-espinacas.webp': w_garbanzos_atun_espinacas,
+  'ensalada-cesar-pollo.webp': w_ensalada_cesar_pollo,
+  'ensalada-pollo-aguacate.webp': w_ensalada_pollo_aguacate,
+  'ensalada-pollo-limon.webp': w_ensalada_pollo_limon,
+  'ensalada-pollo-brocoli.webp': w_ensalada_pollo_brocoli,
+  'ensalada-huevo-duro.webp': w_ensalada_huevo_duro,
+  'ensalada-caprese.webp': w_ensalada_caprese,
+  'ensalada-pollo-pasta.webp': w_ensalada_pollo_pasta,
+  'tallarines-pollo-pesto.webp': w_tallarines_pollo_pesto,
+  'wok-pollo-vegetales.webp': w_wok_pollo_vegetales,
+  'pollo-papas-horno.webp': w_pollo_papas_horno,
+  'pasta-pollo-tomate.webp': w_pasta_pollo_tomate,
 };
