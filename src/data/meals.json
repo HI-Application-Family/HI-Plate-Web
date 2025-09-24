@@ -17,7 +17,7 @@
     "protein": 28.4,
     "fiber": 3.4,
     "preparation": "1. Realiza mise en place: lava y seca las verduras; seca la carne con papel absorbente para mejorar el sellado. 2. Saca el bistec del refrigerador y deja atemperar por 10‑15 minutos. 3. Prende la plancha o sartén y precalienta a fuego alto con aceite de oliva hasta que comience a humear levemente (~200‑220 °C en superficie). 4. Sazona ambos lados del bistec con sal y pimienta justo antes de colocar en la sartén. 5. Cocina el bistec 3‑4 minutos por lado para término medio (temperatura interna de 54‑57 °C), ajustando según grosor. 6. Retira el bistec y deja reposar sobre rejilla o plato caliente durante 5 minutos para redistribuir jugos. 7. Mientras tanto, cocina los espárragos: sumérgelos en agua hirviendo con sal durante 3‑5 minutos hasta que estén tiernos‑crujientes; tras escurrir, pásalos por agua muy fría (baño en hielo) para conservar color y textura. 8. Corta la zanahoria en ralladura fina, trocea la lechuga; mezcla con los espárragos si los incluyes. 9. Emplatado: parte el bistec en láminas si lo deseas, acompaña con las verduras y sirve.",
-    "image": "/src/assets/bistec-a-la-plancha.png",
+    "image": "/src/assets/bistec-a-la-plancha.webp",
     "color": "#778228",
     "distribution": {
       "carne (bistec)": 150,
@@ -45,7 +45,7 @@
     "protein": 28.1,
     "fiber": 2.8,
     "preparation": "1. Realiza mise en place: lava, pela si deseas y seca las verduras; seca los trozos de carne con papel absorbente. Pica cebolla, zanahoria y ajo; corta las papas en cubos de tamaño uniforme (~2‑3 cm). 2. Precalienta una olla pesada a fuego medio‑alto; añade el aceite vegetal y permite que alcance ~180 °C (se verá un ligero humo). 3. Sazona la carne con sal y pimienta; luego dórela en tandas, sellando bien todos los lados (~3‑4 minutos por lado). Retira y reserva. 4. En la misma olla, añade la cebolla y el ajo; sofríe hasta transparencia y fragancia (unos 2 minutos). 5. Agrega la zanahoria, mezcla y cocina 1‑2 minutos más. 6. Incorpora la carne nuevamente; añade las papas y vierte el caldo de res hasta cubrir apenas los ingredientes. Lleva a ebullición. 7. Reduce el fuego a bajo‑medio, tapa la olla y cocina lento (“braise”) dos horas o hasta que la carne esté tierna y las verduras cocidas, revolviendo ocasionalmente para evitar que se pegue al fondo. 8. Corrige sazón al final, ajusta sal y pimienta. 9. Deja reposar tapado unos 5 minutos antes de servir para permitir redistribución de jugos.",
-    "image": "/src/assets/carne-guisada.png",
+    "image": "/src/assets/carne-guisada.webp",
     "color": "#E0743A",
     "distribution": {
       "carne": 150,
@@ -77,7 +77,7 @@
     "protein": 28.7,
     "fiber": 2.7,
     "preparation": "1. Realiza mise en place: pica finamente la cebolla y el ajo; bate ligeramente el huevo; mide los demás ingredientes; lava la lechuga y deja escurrir. 2. En un bol grande mezcla la carne molida con las migas de pan, el huevo batido, la cebolla picada, el ajo, sal y pimienta al gusto hasta integrar homogéneamente. 3. Forma albóndigas de aproximadamente 25‑30 g cada una (se obtienen unas 4‑5 albóndigas). 4. Precalienta sartén antiadherente a fuego medio‑alto con el aceite vegetal; cuando esté caliente (unos 160‑170 °C), dora las albóndigas por todos sus lados (~2 minutos por lado). 5. Agrega la salsa de tomate sobre las albóndigas, reduce fuego a medio‑bajo, tapa la sartén y cocina durante 10‑12 minutos más hasta que la temperatura interna llegue a unos 71 °C. 6. Mientras tanto, cocina el arroz: lleva agua a ebullición con sal, añade el arroz, cocina siguiendo las indicaciones del tipo de arroz hasta que esté tierno; escúrrelo si es necesario. 7. Ensambla la ensalada de lechuga: corta la lechuga en tiras o juliana; no aliñes hasta justo antes de servir si deseas mayor frescura. 8. Deja reposar las albóndigas tapadas unos 3‑5 minutos antes de emplatar para que los jugos se redistribuyan.",
-    "image": "/src/assets/albondigas-de-res.png",
+    "image": "/src/assets/albondigas-de-res.webp",
     "color": "#AD2614",
     "distribution": {
       "albóndigas (carne + pan + huevo + salsa)": 200,
@@ -104,7 +104,7 @@
     "protein": 32.0,
     "fiber": 3.4,
     "preparation": "1. Realiza mise en place: lava bien la carne y seca con papel absorbente; lava las papas, deja la piel si lo deseas; pica finamente el ajo; recolecta el romero fresco; precalienta el horno. 2. Precalienta una bandeja de horno (con rejilla si está disponible) a 200 °C para que las papas y la carne se doren bien. 3. Frota la carne con ajo picado, sal fina y pimienta negra; añade unas ramas de romero fresco y un poco de aceite de oliva. 4. En un bol, mezcla las papas cóctel con aceite de oliva, romero, sal y pimienta; asegúrate de que todas las papas estén cubiertas de aceite. 5. Coloca la carne en la bandeja precalentada; dispón las papas alrededor (o en otra bandeja si se necesita espacio) dejando un espacio para que circule el calor. 6. Hornea durante aproximadamente 20‑25 minutos a 200 °C para sellado y dorado inicial; baja la temperatura a 180 °C y continúa horneando otros 20‑25 minutos (el tiempo total dependerá del grosor de la carne) hasta alcanzar un término medio (≈ 60‑63 °C interno). 7. Retira la carne del horno y cúbrela suelta con papel aluminio; deja reposar 10‑15 minutos para redistribuir los jugos. Las papas, si no están ya hechas, deberían estar tiernas al pinchar con tenedor. 8. Sirve acompañado: corta la carne en filetes finos si prefieres, acompaña con las papas cóctel y decora con romero fresco si lo deseas.",
-    "image": "/src/assets/carne-al-horno-con-papas.png",
+    "image": "/src/assets/carne-al-horno-con-papas.webp",
     "color": "#572D1F",
     "distribution": {
       "carne": 150,
@@ -132,7 +132,7 @@
     "protein": 24.3,
     "fiber": 5.2,
     "preparation": "1. Realiza mise en place: pica finamente la cebolla y el pimiento en cubos pequeños; reserva el aguacate y córtalo al final para evitar oxidación. 2. Precalienta una sartén amplia a fuego medio‑alto. Añade el aceite vegetal y espera a que esté caliente (160–170 °C). 3. Agrega la carne molida y cocina removiendo para deshacer grumos. Sazona con sal y continúa la cocción durante 6–8 minutos hasta que esté completamente cocida y dorada. 4. Incorpora la cebolla y el pimiento. Cocina 2–3 minutos más hasta que estén tiernos pero con textura. 5. Calienta las tortillas en una sartén seca o plancha precalentada, unos 30 segundos por lado, hasta que estén suaves y ligeramente tostadas. 6. Monta los tacos: distribuye la carne con verduras sobre las tortillas calientes, añade el aguacate en láminas o cubos. 7. Servir inmediatamente para mantener temperatura y textura óptimas.",
-    "image": "/src/assets/tacos-de-carne.png",
+    "image": "/src/assets/tacos-de-carne.webp",
     "color": "#D9C09F",
     "distribution": {
       "carne con verduras": 180,
@@ -162,7 +162,7 @@
     "protein": 26.5,
     "fiber": 2.7,
     "preparation": "1. Realiza mise en place: pica finamente la cebolla, el apio, la zanahoria y el ajo; mide los demás ingredientes. 2. Coloca una olla de fondo grueso limpia y seca; precalienta en seco 30 segundos. Agrega el aceite de oliva y caliéntalo a fuego medio (unos 120‑140 °C en fondo). 3. Añade la cebolla, el apio, la zanahoria y el ajo; sofríe durante 5‑7 minutos hasta que la cebolla esté translúcida y las hortalizas suaves, removiendo con cuchara de madera. 4. Sube un poco el fuego, incorpora la carne molida y cocínala, desmenuzándola, hasta que pierda el color rosado (unos 5 minutos). 5. Sazona con sal y pimienta durante la cocción de la carne. 6. Verifica que la carne esté dorada; si suelta líquido, reduce un poco el fuego y evapora el exceso. 7. Incorpora el tomate triturado y, si está muy espeso, añade agua o caldo para lograr consistencia de salsa (~50 ml opcionales). 8. Lleva a hervir suavemente, luego reduce el fuego al mínimo y tapa parcialmente. Deja cocer a fuego lento 25‑30 minutos, removiendo ocasionalmente; si la salsa espesa demasiado, puede agregarse un chorrito de agua caliente. 9. Al final de la cocción, ajusta sal y pimienta. 10. Si no usas inmediatamente, guarda en recipiente con tapa; al calentar nuevamente, hazlo a fuego bajo y remueve para homogeneizar.",
-    "image": "/src/assets/bolonesa.png",
+    "image": "/src/assets/bolonesa.webp",
     "color": "#7F1E05",
     "distribution": {
       "carne": 150,
@@ -196,7 +196,7 @@
     "protein": 30.6,
     "fiber": 3.9,
     "preparation": "1. Realiza mise en place: corta la carne en tiras uniformes (~1‑2 cm de grosor); lava y trocea el brócoli en floretes; pica finamente el ajo y el jengibre; mide todos los ingredientes.  \n2. En un tazón pequeño, mezcla la salsa de soya, el jengibre picado, el ajo picado y la maicena; añade el agua y remueve hasta disolver completamente la maicena para evitar grumos (slurry).  \n3. Calienta un wok o sartén de fondo grueso a fuego alto; añade el aceite vegetal; cuando esté caliente (superficie brillante pero sin humear), añade la carne previamente sazonada con sal y pimienta; saltea durante 2‑3 minutos hasta que esté dorada por fuera pero no completamente cocida. Retira la carne y reserva.  \n4. En la misma sartén, añade los floretes de brócoli; saltea 1‑2 minutos, luego añade unos 15‑30 ml de agua, tapa parcialmente, reduce a fuego medio‑alto y cocina 2‑3 minutos hasta que el brócoli esté tierno pero crujiente.  \n5. Retorna la carne al wok y vierte la salsa preparada; mezcla continuamente durante 1‑2 minutos hasta que la salsa espese y cubra bien los ingredientes. Asegúrate de que la carne alcance temperatura interna segura (~ 63‑70 °C si prefieres término medio).  \n6. Ajusta sazón con sal y pimienta al final. Sirve inmediatamente.  \n7. Limpieza: lava utensilios usados con salsa cruda, esteriliza tabla de cortar.",
-    "image": "/src/assets/carne-con-brocoli.png",
+    "image": "/src/assets/carne-con-brocoli.webp",
     "color": "#8AB11D",
     "distribution": {
       "carne": 120,
@@ -232,7 +232,7 @@
     "protein": 16.5,
     "fiber": 2.7,
     "preparation": "1. Realiza mise en place: trocea la carne en cubos de ~2 cm, pela y corta las papas en cubos de ~2 cm con cáscara, zanahoria en rodajas, pica la cebolla y ajo. 2. Calienta una olla de fondo grueso y precaliéntala 2 minutos a fuego medio‑alto; añade el aceite de oliva y espera que se caliente ligeramente (no humeante). 3. Sazona la carne con sal y pimienta justo antes de sellar, y dórala en tandas para no abarrotar la olla, 2‑3 minutos por lado hasta generar buen fondo (fondos caramelizados). Retira la carne y reserva. 4. En la misma olla, añade la cebolla y ajo, rehoga 2 minutos hasta transparente, desglasando con un poco de caldo si es necesario. 5. Incorpora el tomate triturado y cocina 1 minuto para perder acidez. 6. Vuelve a colocar la carne, añade las papas, zanahoria, guisantes y la hoja de laurel. 7. Vierte el caldo de res y el agua; el líquido debe cubrir apenas los ingredientes. 8. Lleva a ebullición suave, luego reduce el fuego a mínimo. Tapa parcialmente la olla y cocina a fuego lento 70‑90 minutos hasta que la carne esté tierna y las verduras cocidas, removiendo ocasionalmente. 9. Verifica punto de cocción: si el líquido sobra, destapa los últimos 10 minutos para espesar un poco. Ajusta de sal y pimienta al final. 10. Retira la hoja de laurel y distribuye el estofado en porciones calientes.",
-    "image": "/src/assets/estofado-de-res.png",
+    "image": "/src/assets/estofado-de-res.webp",
     "color": "#5C2E1A",
     "distribution": {
       "carne": 120,
@@ -267,7 +267,7 @@
     "protein": 30.9,
     "fiber": 4.4,
     "preparation": "1. Mise en place: Lava y seca los pimientos y la cebolla; pela y corta la cebolla en juliana; corta los pimientos en tiras uniformes de unos 5‑7 mm de grosor; pesa la carne y córtala en tiras de grosor uniforme (unos 1‑1,5 cm de ancho). 2. Marina la carne: en un bowl mezcla las tiras de carne con sal, pimienta, comino, pimentón y ajo en polvo; deja reposar al menos 15 minutos en frío (refrigerador). 3. Precalienta sartén de hierro o antiadherente a fuego medio‑alto; añade el aceite de oliva y calienta hasta que brille pero sin humear excesivamente (unos 180‑200 °C en la superficie). 4. Añade la cebolla y saltea durante aproximadamente 2‑3 minutos hasta que comience a transparentar. 5. Incorpora los pimientos y cocina otros 3‑4 minutos hasta que estén tiernos‑crujientes. Retira las verduras y reserva en bandeja aparte. 6. En la misma sartén, añade la carne marinada distribuyéndola bien; sella las tiras por ambos lados, cocinando unos 3‑4 minutos hasta alcanzar término medio‑bien cocido, sin dejar que se reseque. 7. Regresa las verduras a la sartén con la carne, mezcla bien durante 1 minuto para integrar sabores. 8. Calienta las tortillas: puedes hacerlo sobre la sartén limpia caliente 30 segundos por lado o envolver en papel aluminio y calentar en horno a 150 °C por 5 minutos. 9. Emplatado: coloca la tortilla, relléna con carne y vegetales, sirviendo inmediatamente.",
-    "image": "/src/assets/fajitas-de-res.png",
+    "image": "/src/assets/fajitas-de-res.webp",
     "color": "#E1C8A6",
     "distribution": {
       "carne (res)": 120,
@@ -294,7 +294,7 @@
   "protein": 37.8,
   "fiber": 1.1,
   "preparation": "1. Mise en Place: Limpia y seca la pechuga de pollo con papel absorbente para asegurar un sellado adecuado. Mide y ten a mano todos los ingredientes. 2. Preparación del Arroz: En una olla, hierve 120 ml de agua por cada 40 g de arroz (proporción 3:1). Añade una pizca de sal. Cuando el agua esté hirviendo, agrega el arroz, reduce el fuego al mínimo, cubre y cocina por 15-20 minutos, o hasta que el agua se haya absorbido por completo. Retira del fuego y deja reposar tapado por 5 minutos para que los granos se suelten. 3. Atemperado y Sazonado: Saca la pechuga del refrigerador y deja reposar a temperatura ambiente por 10-15 minutos. Sazona ambos lados con sal, pimienta negra y ajo en polvo, asegurando una cobertura uniforme. 4. Cocción del Pollo: Precalienta una sartén o plancha a fuego medio-alto con el aceite de oliva. Cuando el aceite esté caliente (aproximadamente 170-180 °C), coloca la pechuga. Cocina por 6-8 minutos por cada lado, volteando solo una vez, hasta obtener un dorado uniforme y una temperatura interna de 74 °C. 5. Reposo y Emplatado: Retira la pechuga de pollo de la sartén y déjala reposar sobre una tabla o plato caliente durante 5 minutos. Este paso es crucial para redistribuir los jugos internos y mantener la carne tierna. Emplata la pechuga junto al arroz blanco. Sirve inmediatamente.",
-  "image": "/src/assets/pechuga-a-la-plancha-con-arroz.png",
+  "image": "/src/assets/pechuga-a-la-plancha-con-arroz.webp",
   "color": "#C06713",
   "distribution": {
   "pechuga de pollo": 150,
@@ -320,7 +320,7 @@
   "protein": 38.5,
   "fiber": 0.4,
   "preparation": "1. Realiza mise en place: lava y seca los muslos de pollo con papel absorbente; extrae y mide el jugo de limón; pica finamente el romero fresco. 2. Precalienta el horno a 200 °C con la bandeja para hornear adentro para que se caliente. 3. En un bol, mezcla el pollo con el jugo de limón, el romero, la sal y la pimienta negra molida. 4. Añade el aceite de oliva y masajea bien para cubrir uniformemente las piezas. 5. Coloca el pollo sobre la bandeja caliente, con la piel hacia arriba, para asegurar un dorado óptimo. 6. Hornea durante 35-40 minutos, volteando las piezas a la mitad del tiempo, hasta que la piel esté dorada y la temperatura interna alcance 74 °C. 7. Mientras el pollo se hornea, calienta el arroz blanco cocido al vapor o en microondas sin agregar grasa. 8. Retira el pollo del horno y deja reposar 5 minutos antes de servir para permitir la redistribución de jugos. 9. Emplata el pollo junto con el arroz, sirviendo caliente.",
-  "image": "/src/assets/pollo-al-horno-con-arroz.png",
+  "image": "/src/assets/pollo-al-horno-con-arroz.webp",
   "color": "#BF570A",
   "distribution": {
   "pollo": 200,
@@ -348,7 +348,7 @@
   "protein": 38.5,
   "fiber": 4.5,
   "preparation": "1. Realiza mise en place: lava y corta el pimiento en tiras finas, pica la cebolla en juliana y separa el brócoli en pequeños ramilletes. 2. Corta la pechuga de pollo en tiras uniformes. 3. Cocina el arroz blanco siguiendo instrucciones del paquete; una vez cocido, reserva caliente. 4. Precalienta un wok o sartén grande a fuego alto y añade el aceite de oliva, calentándolo hasta que humee ligeramente (~180-200°C). 5. Salpimienta el pollo y saltéalo en el wok por 5-6 minutos hasta que esté dorado y completamente cocido, removiendo constantemente para evitar que se pegue. 6. Retira el pollo y reserva en un plato caliente. 7. En el mismo wok, añade la cebolla, el pimiento y el brócoli; saltéalos durante 5-7 minutos hasta que estén tiernos pero aún crujientes, manteniendo el fuego alto para un buen salteado. 8. Regresa el pollo al wok, agrega la salsa de soya y mezcla bien con los vegetales; cocina por 1-2 minutos para integrar sabores. 9. Rectifica sazón con sal y pimienta al gusto. 10. Emplata distribuyendo el arroz y el salteado de pollo con vegetales de forma balanceada.",
-  "image": "/src/assets/salteado-de-pollo.png",
+  "image": "/src/assets/salteado-de-pollo.webp",
   "color": "#D27F05",
   "distribution": {
   "pollo": 120,
@@ -377,7 +377,7 @@
   "protein": 28.1,
   "fiber": 1.9,
   "preparation": "1. Realiza mise en place: lava y seca el pimiento y la cebolla. Corta la pechuga de pollo en cubos uniformes de aproximadamente 2.5 cm. 2. Corta el pimiento y la cebolla en cubos de tamaño similar al pollo para asegurar una cocción uniforme. 3. En un bol, mezcla el pollo con el jugo de limón, sal y pimienta. Deja marinar 10 minutos a temperatura ambiente para potenciar sabor y ablandar la carne. 4. Ensarta alternadamente los cubos de pollo, pimiento y cebolla en brochetas de madera o metal previamente remojadas si son de madera, para evitar que se quemen. 5. Precalienta la parrilla o plancha a fuego medio-alto (~200 °C). 6. Pincela las brochetas con aceite de oliva antes de colocarlas en la parrilla para evitar que se peguen y favorecer el dorado. 7. Cocina las brochetas durante 10-15 minutos, girándolas cada 3-4 minutos para una cocción homogénea. Controla que el pollo alcance una temperatura interna de 74 °C para asegurar su seguridad alimentaria. 8. Retira las brochetas y deja reposar 3 minutos para redistribuir los jugos. 9. Sirve caliente, acompañado de una ensalada fresca o arroz si se desea.",
-  "image": "/src/assets/brochetas-de-pollo.png",
+  "image": "/src/assets/brochetas-de-pollo.webp",
   "color": "#B17A61",
   "distribution": {
   "pollo": 150,
@@ -406,7 +406,7 @@
   "protein": 31.5,
   "fiber": 1.0,
   "preparation": "1. Realiza mise en place: lava y seca el perejil, pela y pica finamente el ajo. Corta la pechuga de pollo en tiras o cubos uniformes. 2. Sazona el pollo con sal y pimienta al gusto. 3. Precalienta una sartén antiadherente a fuego medio durante 2 minutos. 4. Agrega el aceite de oliva y caliéntalo hasta que esté tibio, sin humear. Añade el ajo picado y sofríe suavemente por 1 minuto para liberar aroma sin quemar. 5. Incrementa el fuego a medio-alto y añade el pollo; cocina removiendo ocasionalmente hasta dorar uniformemente y alcanzar temperatura interna de 74 °C, aproximadamente 7-8 minutos. 6. Mientras se cocina el pollo, calienta el arroz blanco cocido en baño María o en microondas, cuidando que no se reseque. 7. Retira la sartén del fuego, espolvorea el perejil fresco picado y mezcla ligeramente. 8. Deja reposar el pollo 2 minutos para redistribuir jugos y potenciar sabor. 9. Emplata el pollo acompañado con el arroz caliente.",
-  "image": "/src/assets/pollo-al-ajillo.png",
+  "image": "/src/assets/pollo-al-ajillo.webp",
   "color": "#EFB43C",
   "distribution": {
   "pollo": 150,
@@ -435,7 +435,7 @@
   "protein": 30.8,
   "fiber": 2.1,
   "preparation": "1. Realiza mise en place: lava y seca la pechuga de pollo, la piña y el pimiento. Corta el pollo en cubos uniformes de 2 cm y el pimiento en tiras o cubos similares. 2. Cocina el arroz blanco según las instrucciones del paquete; pesa 100 g ya cocido para una porción. 3. Precalienta un wok o sartén grande a fuego medio-alto. Añade el aceite de oliva y distribúyelo bien. 4. Agrega el pollo, sazona con sal y saltea por 6-7 minutos hasta que esté dorado y completamente cocido (temperatura interna mínima de 74°C). Retira el pollo y reserva en un recipiente tapado para mantener temperatura. 5. En el mismo wok, agrega el pimiento rojo y saltea por 3 minutos hasta que esté tierno-crujiente. 6. Añade la piña y saltea junto con el pimiento por 1-2 minutos para integrar sabores. 7. Incorpora el pollo reservado y vierte la salsa agridulce sobre todos los ingredientes. Cocina y mezcla constantemente durante 2 minutos hasta que la salsa espese y cubra homogéneamente el conjunto. 8. Apaga el fuego y deja reposar el contenido en el wok durante 2 minutos para que los sabores se integren. 9. Emplata: sirve el pollo agridulce sobre el arroz blanco cocido, manteniendo las proporciones indicadas.",
-  "image": "/src/assets/pollo-agridulce.png",
+  "image": "/src/assets/pollo-agridulce.webp",
   "color": "#E9AD0C",
   "distribution": {
   "pollo": 150,
@@ -463,7 +463,7 @@
   "protein": 29.3,
   "fiber": 0.4,
   "preparation": "1. Realiza mise en place: lava y seca el perejil, exprime el limón y reserva el jugo. 2. Seca la pechuga de pollo con papel absorbente para un mejor dorado. 3. Sazona la pechuga uniformemente con sal y pimienta negra molida. 4. Calienta una sartén antiadherente a fuego medio-alto y añade el aceite de oliva, dejando que se caliente hasta que esté brillante pero sin humear (~180 °C). 5. Coloca la pechuga en la sartén y cocina 6-7 minutos por un lado sin mover para obtener buen sellado. 6. Voltea la pechuga y cocina otros 5-6 minutos hasta que el interior alcance 74 °C (temperatura segura para pollo). 7. Reduce el fuego a medio-bajo, añade el jugo de limón y el perejil picado sobre la pechuga, y cocina 1-2 minutos más para integrar sabores y crear una ligera salsa. 8. Retira la pechuga y deja reposar 3 minutos sobre un plato caliente antes de cortar para que los jugos se redistribuyan. 9. Emplata la pechuga bañada con la salsa de limón y perejil.",
-  "image": "/src/assets/pollo-con-limon.png",
+  "image": "/src/assets/pollo-con-limon.webp",
   "color": "#CCAD38",
   "distribution": {
   "pechuga de pollo": 150,
@@ -492,7 +492,7 @@
   "protein": 28.6,
   "fiber": 3.2,
   "preparation": "1. Realiza mise en place: lava y seca la lechuga y el tomate. 2. Cocina la pechuga de pollo en agua con sal a punto de hervor durante 15-20 minutos hasta que esté completamente cocida. 3. Retira el pollo y deja enfriar ligeramente, luego deshilacha con dos tenedores. 4. En un bowl, mezcla el pollo deshilachado con aceite de oliva, sal, pimienta negra y comino molido hasta integrar bien los sabores. 5. Corta la lechuga en tiras finas y el tomate en cubos pequeños. 6. Calienta las tortillas de maíz en sartén antiadherente a fuego medio durante 30 segundos por lado, hasta que estén flexibles pero sin quemarse. 7. Rellena cada tortilla con aproximadamente 40 g de pollo sazonado, 10 g de lechuga y 17 g de tomate. 8. Sirve inmediatamente para preservar la textura de los ingredientes.",
-  "image": "/src/assets/tacos-de-pollo.png",
+  "image": "/src/assets/tacos-de-pollo.webp",
   "color": "#CFAE79",
   "distribution": {
   "pollo deshilachado": 120,
@@ -521,7 +521,7 @@
   "protein": 34.2,
   "fiber": 1.7,
   "preparation": "1. Realiza mise en place: ralla el jengibre fresco, pica finamente la cebolla y el ajo; mide el jugo de naranja y la salsa de soya. 2. Lava y seca la pechuga de pollo, córtala en cubos uniformes de aproximadamente 2 cm para una cocción pareja. 3. Precalienta una sartén antiadherente a fuego medio-alto y añade el aceite de oliva. 4. Sofríe la cebolla y el ajo durante 2-3 minutos hasta que estén translúcidos y fragantes, evitando que se quemen. 5. Añade el pollo a la sartén y cocina durante 6-8 minutos, revolviendo ocasionalmente, hasta que esté dorado y completamente cocido (temperatura interna 74 °C). 6. Incorpora el jengibre rallado, mezcla bien y vierte el jugo de naranja junto con la salsa de soya. 7. Reduce el fuego a medio y cocina la mezcla por 5-7 minutos, removiendo con frecuencia, hasta que la salsa se reduzca y espese ligeramente, formando un glaseado. 8. Mientras tanto, cocina el arroz blanco previamente lavado y escurrido en agua hirviendo con sal hasta que esté tierno (aproximadamente 15 minutos), luego escúrrelo y mantenlo caliente. 9. Emplata distribuyendo el arroz como base y coloca el pollo glaseado encima. 10. Opcional: decora con cáscara de naranja rallada o cebollino picado para realzar aroma y presentación.",
-  "image": "/src/assets/pollo-a-la-naranja.png",
+  "image": "/src/assets/pollo-a-la-naranja.webp",
   "color": "#D48220",
   "distribution": {
   "pollo": 150,
@@ -548,7 +548,7 @@
   "protein": 31.8,
   "fiber": 1.1,
   "preparation": "1. Realiza mise en place: mide ingredientes y prepara utensilios. Lava y seca la pechuga de pollo; córtala en tiras de 2 cm de grosor. 2. Cocina el arroz blanco según método tradicional (1 parte de arroz por 2 partes de agua, cocción a fuego bajo con tapa durante 18 minutos), reserva caliente. 3. Precalienta sartén antiadherente a fuego medio-alto, añade el aceite de oliva y distribuye uniformemente. 4. Añade el pollo y cocina sin mover durante 3-4 minutos para sellar, luego voltea y cocina otros 3 minutos hasta que esté dorado y completamente cocido (temperatura interna ≥74 °C). 5. Agrega la salsa teriyaki y reduce el fuego a medio; cocina removiendo constantemente por 2-3 minutos hasta que la salsa espese y caramelice ligeramente, cubriendo bien el pollo. 6. Tuesta las semillas de sésamo en sartén limpia a fuego bajo durante 2 minutos para intensificar aroma. 7. Emplatado: coloca 120 g de arroz cocido en el centro del plato, encima dispone el pollo con salsa teriyaki, espolvorea con semillas de sésamo tostadas. 8. Limpia bordes y sirve inmediatamente.",
-  "image": "/src/assets/pollo-teriyaki.png",
+  "image": "/src/assets/pollo-teriyaki.webp",
   "color": "#56190D",
   "distribution": {
   "pechuga de pollo": 150,
@@ -579,7 +579,7 @@
   "protein": 28.1,
   "fiber": 1.9,
   "preparation": "1. Realiza mise en place: lava y seca la cebolla y el pimiento; pela la cebolla si prefieres sabor menos intenso. 2. Corta la pechuga de pollo en cubos uniformes de aproximadamente 3 cm para una cocción homogénea. 3. Corta la cebolla y el pimiento en trozos similares para alternar en las brochetas. 4. En un bol, mezcla el pimentón dulce, comino, cúrcuma y la sal. Añade el aceite de oliva y emulsiona hasta obtener una marinada homogénea. 5. Incorpora el pollo a la marinada, asegurándote que todos los trozos queden bien cubiertos. Cubre con film y deja marinar en refrigeración por al menos 30 minutos, idealmente 1 hora para mayor sabor. 6. Ensarta alternadamente el pollo, cebolla y pimiento en los palitos de brocheta, dejando un pequeño espacio entre los trozos para asegurar cocción uniforme. 7. Precalienta la parrilla o plancha a fuego medio-alto (~180-200°C). 8. Coloca las brochetas y cocina por 10-15 minutos, girando cada 3-4 minutos para dorar y cocinar uniformemente, hasta que el pollo alcance temperatura interna mínima de 74°C. 9. Retira las brochetas y deja reposar 3 minutos antes de servir para redistribuir jugos. 10. Emplata separando brochetas y sirviendo acompañado si se desea con arroz, ensalada o pan.",
-  "image": "/src/assets/pincho-moruno.png",
+  "image": "/src/assets/pincho-moruno.webp",
   "color": "#CC8F46",
   "distribution": {
   "pollo": 150,
@@ -608,7 +608,7 @@
   "protein": 31.8,
   "fiber": 3.1,
   "preparation": "1. Realiza mise en place: lava y corta el brócoli en ramilletes pequeños, pica finamente el ajo. 2. Precalienta una vaporera o una olla con rejilla para vapor y cocina el brócoli al vapor durante 4 minutos, hasta que esté tierno-crujiente; retira y reserva para evitar cocción excesiva. 3. En un wok o sartén grande, calienta el aceite de sésamo a fuego medio-alto hasta que esté caliente pero sin humear (aprox. 160-180 °C). 4. Añade el ajo picado y sofríe por 30 segundos hasta liberar aroma, cuidando que no se queme. 5. Incorpora las tiras de pechuga de pollo previamente salpimentadas con sal y pimienta; saltea por 5-7 minutos hasta que estén doradas y cocidas internamente (temperatura interna mínima 74 °C). 6. Agrega el brócoli al wok junto con la salsa de soya; mezcla y saltea todo durante 2-3 minutos para integrar sabores y calentar el brócoli sin que pierda textura. 7. Ajusta sazón si es necesario. 8. Retira del fuego y sirve inmediatamente.",
-  "image": "/src/assets/pollo-con-brocoli.png",
+  "image": "/src/assets/pollo-con-brocoli.webp",
   "color": "#A6CF48",
   "distribution": {
   "pollo": 120,
@@ -637,7 +637,7 @@
   "protein": 32.4,
   "fiber": 3.3,
   "preparation": "1. Realiza mise en place: lava y seca las verduras; corta la pechuga de pollo en tiras uniformes y seca con papel absorbente. 2. Cocina el arroz blanco según método estándar: lava el arroz, cuece en agua hirviendo con sal moderada (1 g) hasta que esté tierno y esponjoso (~15-18 minutos). Reserva caliente. 3. Precalienta el wok a fuego alto y añade el aceite de oliva; espera que humee levemente (~200°C). 4. Incorpora el pollo en tiras y saltea de 4 a 5 minutos hasta que esté cocido y dorado, removiendo constantemente para evitar que se pegue. Retira el pollo y reserva. 5. Añade al wok la zanahoria, calabacín y pimiento cortados en tiras finas; saltea por 5-7 minutos hasta que estén tiernos pero aún crujientes (al dente). 6. Devuelve el pollo al wok, agrega la salsa de soya baja en sodio y mezcla bien. Cocina todo junto por 1-2 minutos para integrar sabores. 7. Emplatado: sirve 100 g de arroz cocido acompañado con la mezcla de pollo y vegetales caliente. 8. Recomendación: mantener el fuego alto durante todo el salteado para preservar textura y sabor; no sobrecargar el wok para evitar cocción irregular.",
-  "image": "/src/assets/wok-pollo-vegetales.png",
+  "image": "/src/assets/wok-pollo-vegetales.webp",
   "color": "#A90A05",
   "distribution": {
   "pollo": 120,
@@ -668,7 +668,7 @@
   "protein": 29.2,
   "fiber": 3.5,
   "preparation": "1. Realiza mise en place: pica la cebolla y la albahaca fresca, corta la pechuga de pollo en cubos uniformes para cocción pareja. 2. Precalienta una olla con abundante agua y añade 2 g de sal. Cuando hierva, incorpora la pasta y cocina hasta que esté al dente (aproximadamente 8-10 minutos). 3. Mientras se cocina la pasta, calienta una sartén a fuego medio y añade el aceite de oliva. 4. Agrega la cebolla picada y sofríe hasta que esté translúcida, aproximadamente 3 minutos, revolviendo constantemente. 5. Incorpora los cubos de pollo, sazona con sal y pimienta, y cocina hasta que el pollo esté dorado y completamente cocido (temperatura interna de 74 °C), alrededor de 6-8 minutos. 6. Añade la salsa de tomate y la albahaca fresca picada, mezcla bien y cocina a fuego bajo por 7-10 minutos para integrar sabores, removiendo ocasionalmente. 7. Escurre la pasta y reserva 50 ml del agua de cocción. 8. Mezcla la pasta con la salsa y el pollo en la sartén, añade un poco del agua reservada si es necesario para ajustar la textura de la salsa. 9. Rectifica sazón si es necesario y sirve inmediatamente.",
-  "image": "/src/assets/pasta-pollo-tomate.png",
+  "image": "/src/assets/pasta-pollo-tomate.webp",
   "color": "#BE3212",
   "distribution": {
   "pasta": 80,
@@ -696,7 +696,7 @@
   "protein": 36.2,
   "fiber": 3.0,
   "preparation": "1. Realiza mise en place: pesa y mide todos los ingredientes, prepara utensilios. 2. Llena una olla con 1 litro de agua, agrega 2 g de sal y lleva a ebullición a fuego alto. 3. Añade los tallarines al agua hirviendo y cocina sin tapa, removiendo ocasionalmente para evitar que se peguen, durante 8-10 minutos hasta que estén al dente. 4. Mientras se cuecen los tallarines, seca la pechuga de pollo con papel absorbente y sazona ligeramente con sal. 5. Calienta una sartén antiadherente a fuego medio-alto y cocina la pechuga de pollo aproximadamente 6-7 minutos por lado, hasta que la temperatura interna alcance 74 °C, asegurando que esté bien cocida pero jugosa. 6. Retira el pollo y déjalo reposar 5 minutos antes de cortar en tiras para evitar pérdida de jugos. 7. Escurre los tallarines y reserva una cucharada del agua de cocción. 8. Mezcla los tallarines calientes con la salsa pesto y, si es necesario, añade un poco del agua reservada para ajustar la consistencia de la salsa. 9. Coloca las tiras de pollo sobre los tallarines con pesto y sirve inmediatamente, manteniendo temperatura adecuada.",
-  "image": "/src/assets/tallarines-pollo-pesto.png",
+  "image": "/src/assets/tallarines-pollo-pesto.webp",
   "color": "#585B0F",
   "distribution": {
   "tallarines": 80,
@@ -724,7 +724,7 @@
   "protein": 32.9,
   "fiber": 2.3,
   "preparation": "1. Realiza mise en place: lava y seca el pollo y las papas; pica finamente el ajo, prepara el romero y tomillo frescos. 2. Precalienta el horno a 200 °C con la rejilla en posición media. 3. En un bol grande, mezcla el pollo y las papas con el aceite de oliva, ajo picado, romero, tomillo, sal y pimienta. Asegura una cobertura uniforme. 4. Distribuye en una bandeja para hornear antiadherente o ligeramente aceitada, en una sola capa para permitir cocción homogénea. 5. Hornea durante 40-50 minutos, girando las papas y el pollo a mitad de cocción para dorado uniforme. 6. Comprueba que el pollo alcance temperatura interna mínima de 74 °C usando un termómetro digital. 7. Retira la bandeja y deja reposar el pollo 5 minutos para redistribuir jugos. 8. Sirve caliente. Opcionalmente, puede acompañarse con una ensalada fresca para balancear la comida.",
-  "image": "/src/assets/pollo-papas-horno.png",
+  "image": "/src/assets/pollo-papas-horno.webp",
   "color": "#CA8F24",
   "distribution": {
   "pollo": 200,
@@ -750,7 +750,7 @@
   "protein": 32.5,
   "fiber": 0,
   "preparation": "1. Realiza mise en place: seca el filete de pavo con papel absorbente para eliminar humedad superficial y garantizar buen sellado. 2. Si deseas, marina el filete con jugo de limón y ajo en polvo durante 10 minutos en refrigeración para mejorar sabor y textura. 3. Saca el filete del refrigerador y deja atemperar 10 minutos antes de cocinar. 4. Precalienta una plancha o sartén antiadherente a fuego medio-alto (aprox. 180-200 °C). Añade el aceite de oliva y distribúyelo homogéneamente. 5. Sazona el filete con sal y pimienta justo antes de colocar en la plancha. 6. Cocina el filete 4-6 minutos por lado, sin moverlo para lograr un dorado uniforme, hasta alcanzar temperatura interna de 74 °C, asegurando cocción segura y jugosa. 7. Retira el filete y deja reposar sobre rejilla o plato caliente por 3-5 minutos para redistribuir los jugos y mejorar la jugosidad. 8. Sirve inmediatamente, acompañando con guarniciones frescas o cocidas según preferencia.",
-  "image": "/src/assets/pavo-a-la-plancha.png",
+  "image": "/src/assets/pavo-a-la-plancha.webp",
   "color": "#F2C6AF",
   "distribution": {
   "filete de pavo": 150,
@@ -779,7 +779,7 @@
   "protein": 29.7,
   "fiber": 1.1,
   "preparation": "1. Realiza mise en place: limpia y corta los champiñones en láminas, seca la pechuga de pollo con papel absorbente y sazona con sal y pimienta al gusto. 2. Calienta una sartén antiadherente a fuego medio-alto y añade la mantequilla para que se derrita y caliente uniformemente. 3. Añade los champiñones y saltéalos durante 5 minutos hasta que suelten su jugo y se doren ligeramente, removiendo con frecuencia para evitar que se quemen. 4. Retira los champiñones y reserva. 5. En la misma sartén, agrega la pechuga de pollo y cocina aproximadamente 4-5 minutos por lado hasta que esté dorada y completamente cocida (temperatura interna mínima de 74 °C). 6. Incorpora nuevamente los champiñones a la sartén y añade la crema de leche. Reduce el fuego a bajo y cocina a fuego lento durante 3-4 minutos, removiendo continuamente hasta que la salsa espese ligeramente y tome una textura cremosa. 7. Rectifica sazón con sal y pimienta si es necesario. 8. Retira del fuego y deja reposar 2 minutos antes de servir para que los sabores se integren. 9. Emplata distribuyendo el pollo con la salsa de champiñones de manera uniforme.",
-  "image": "/src/assets/pollo-champinones.png",
+  "image": "/src/assets/pollo-champinones.webp",
   "color": "#CDA784",
   "distribution": {
   "pechuga de pollo": 120,
@@ -805,7 +805,7 @@
     "protein": 32.2,
     "fiber": 0,
     "preparation": "1. Realiza mise en place: seca las alitas con papel absorbente para eliminar exceso de humedad. 2. Precalienta el horno a 200 °C con la bandeja adentro para que esté caliente. 3. En un bol, mezcla las alitas con el aceite, la sal, pimienta y pimentón hasta que estén bien cubiertas. 4. Coloca las alitas en una bandeja para hornear, evitando amontonarlas para que se cocinen uniformemente. 5. Hornea durante 40 minutos, volteando las alitas a mitad de cocción para dorar ambos lados. 6. Verifica que la temperatura interna alcance al menos 75 °C para garantizar cocción segura. 7. Retira y deja reposar 5 minutos sobre rejilla para mantener la piel crujiente. 8. Sirve inmediatamente para disfrutar textura óptima.",
-    "image": "/src/assets/alitas-horno.png",
+    "image": "/src/assets/alitas-horno.webp",
     "color": "#D88C1E",
     "distribution": {
       "alitas de pollo": 200,
@@ -832,7 +832,7 @@
   "protein": 37.2,
   "fiber": 1.3,
   "preparation": "1. Realiza mise en place: pesa y prepara todos los ingredientes. Lava y seca la pechuga con papel absorbente. 2. Sazona la pechuga con sal y pimienta por ambos lados. 3. Dispón la harina, el huevo batido y el pan rallado en recipientes separados. 4. Pasa la pechuga primero por la harina, cubriendo uniformemente y sacude el exceso. 5. Luego, sumerge la pechuga en el huevo batido para asegurar adhesión del pan rallado. 6. Cubre la pechuga con pan rallado, presionando ligeramente para que quede bien adherido. 7. Precalienta la airfryer a 200 °C durante 5 minutos. 8. Coloca la pechuga empanizada en la canasta de la airfryer en una sola capa y rocía con aceite de oliva para facilitar el dorado y evitar resequedad. 9. Cocina durante 12-15 minutos, volteando a mitad de cocción, hasta que la temperatura interna alcance 75 °C y el empanizado esté dorado y crujiente. 10. Retira la pechuga y deja reposar 3 minutos antes de cortar para que los jugos se redistribuyan.",
-  "image": "/src/assets/pollo-empanizado.png",
+  "image": "/src/assets/pollo-empanizado.webp",
   "color": "#BE6F25",
   "distribution": {
   "pechuga de pollo": 150,
@@ -860,7 +860,7 @@
   "protein": 34.0,
   "fiber": 2.5,
   "preparation": "1. Realiza mise en place: seca la milanesa con papel absorbente, mide y prepara todos los ingredientes. 2. Sazona la milanesa con sal y pimienta al gusto. 3. Bate el huevo en un bol hasta homogeneizar. 4. Pasa la milanesa primero por huevo, asegurando que quede bien cubierta, luego por el pan rallado integral, presionando para que se adhiera uniformemente. 5. Precalienta la airfryer a 200 °C durante 5 minutos. 6. Con un pincel, unta ligeramente ambos lados de la milanesa con aceite de oliva para mejorar el dorado. 7. Coloca la milanesa en la canasta de la airfryer en una sola capa, evitando superposiciones. 8. Cocina durante 10 minutos, voltea la milanesa a mitad de tiempo para un dorado uniforme. 9. Retira y deja reposar 2 minutos antes de servir para que se asienten los jugos y la textura crocante. 10. Opcional: acompaña con una ensalada fresca o vegetales al vapor para balancear el plato.",
-  "image": "/src/assets/milanesa-res.png",
+  "image": "/src/assets/milanesa-res.webp",
   "color": "#9C572D",
   "distribution": {
   "milanesa de res": 150,
@@ -887,7 +887,7 @@
     "protein": 31.5,
     "fiber": 1.3,
     "preparation": "1. Realiza mise en place: seca los filetes de trucha con papel absorbente para eliminar exceso de humedad. 2. Sazona los filetes con sal y pimienta negra molida de forma homogénea. 3. Coloca la harina de trigo en un plato extendido. 4. Enharina los filetes por ambos lados, sacudiendo el exceso. 5. Calienta el aceite de girasol en sartén a 180 °C, verificando con termómetro o método del palito para freír correctamente. 6. Fríe los filetes en el aceite caliente durante 3-4 minutos por lado, hasta que estén dorados y crujientes, asegurando cocción interna. 7. Retira los filetes y escúrrelos sobre papel absorbente para eliminar exceso de aceite. 8. Mientras tanto, cocina el arroz blanco: lava el arroz hasta que el agua salga clara; cocina con 1 parte de arroz por 2 partes de agua con sal al gusto en olla tapada a fuego medio-bajo durante 15 minutos. 9. Deja reposar el arroz 5 minutos con la olla tapada y luego esponja con tenedor. 10. Sirve los filetes de trucha frita acompañados con arroz blanco caliente.",
-    "image": "/src/assets/trucha-frita.png",
+    "image": "/src/assets/trucha-frita.webp",
     "color": "#DB724C",
     "distribution": {
       "trucha": 150,
@@ -918,7 +918,7 @@
   "protein": 35.1,
   "fiber": 4.2,
   "preparation": "1. Realiza mise en place: lava y seca todas las verduras; pela las papas y córtalas en bastones de tamaño uniforme (aprox. 1 cm de grosor). 2. Precalienta el aceite en una freidora o sartén profunda a 175 °C para las papas. 3. Fríe las papas en tandas hasta que estén doradas y crujientes (7-8 minutos), luego escúrrelas en papel absorbente para eliminar exceso de grasa; reserva en lugar cálido. 4. Corta el lomo de res en tiras delgadas, sazona con sal y pimienta negra molida. 5. Calienta una sartén o wok a fuego muy alto y añade 5 ml de aceite vegetal; cuando humee, saltea la carne durante 2-3 minutos hasta que se dore pero conserve jugos; retira y reserva. 6. Sin limpiar la sartén, agrega la cebolla morada en juliana y el tomate en gajos; saltea 1-2 minutos para conservar textura crujiente y frescura. 7. Incorpora nuevamente la carne y las papas fritas al wok; mezcla rápidamente para integrar sabores. 8. Añade la salsa de soya, el vinagre de vino tinto y el cilantro picado; saltea 30 segundos para combinar. 9. Rectifica sazón y sirve inmediatamente en plato precalentado para mantener temperatura óptima.",
-  "image": "/src/assets/lomo-saltado.png",
+  "image": "/src/assets/lomo-saltado.webp",
   "color": "#4E1C13",
   "distribution": {
   "carne (lomo de res)": 120,
@@ -946,7 +946,7 @@
   "protein": 35.2,
   "fiber": 1.3,
   "preparation": "1. Realiza mise en place: mide y pesa ingredientes; seca ligeramente la pechuga con papel absorbente para mejorar adherencia. 2. Precalienta el horno a 200 °C con la rejilla en posición media. 3. Sazona la pechuga con sal y pimienta al gusto. 4. Bate el huevo en un recipiente amplio hasta homogenizar. 5. Pasa la pechuga por el huevo batido, asegurando cobertura completa. 6. Cubre uniformemente con pan rallado, presionando ligeramente para que adhiera. 7. Coloca la milanesa sobre una bandeja para hornear cubierta con papel vegetal o silpat. 8. Rocía el aceite de oliva sobre la superficie de la milanesa con un spray o pincel para evitar exceso de grasa y obtener textura crujiente. 9. Hornea durante 15-20 minutos, girando la milanesa a mitad del tiempo para dorar uniformemente. 10. Verifica que la temperatura interna alcance al menos 74 °C para seguridad alimentaria. 11. Retira y deja reposar sobre rejilla durante 5 minutos para mantener la textura crujiente y permitir redistribución de jugos.",
-  "image": "/src/assets/milanesa-pollo-horno.png",
+  "image": "/src/assets/milanesa-pollo-horno.webp",
   "color": "#954F20",
   "distribution": {
   "pechuga de pollo": 150,
@@ -985,7 +985,7 @@
   "protein": 29.6,
   "fiber": 2.1,
   "preparation": "1. Realiza mise en place: lava y seca la lechuga, tomates cherry, cebolla y zanahoria; corta la lechuga en trozos medianos, parte los tomates cherry por la mitad, rebana finamente la cebolla y ralla la zanahoria. 2. Saca el asado de tira del refrigerador 20 minutos antes para que tome temperatura ambiente. 3. Sazona uniformemente la carne con sal y pimienta negra molida por ambos lados justo antes de cocinar. 4. Precalienta la parrilla o sartén a fuego medio-alto (180-200 °C) para lograr un buen sellado. 5. Cocina el asado de tira durante 4-5 minutos por lado hasta obtener una costra dorada y caramelizada, luego reduce el fuego y continúa cocinando 15-20 minutos a temperatura media hasta alcanzar una temperatura interna de 70-75 °C (cocción a punto). 6. Retira la carne y deja reposar sobre una rejilla durante 7-10 minutos para redistribuir los jugos y mejorar la jugosidad. 7. Mientras tanto, prepara la vinagreta: emulsiona el aceite de oliva con el vinagre, sal y pimienta hasta integrar completamente. 8. Mezcla la lechuga, tomates, cebolla y zanahoria con la vinagreta justo antes de servir para conservar la textura fresca. 9. Emplata: coloca el asado de tira cortado en porciones junto con la ensalada a un lado.",
-  "image": "/src/assets/asado-de-tira-con-ensalada.png",
+  "image": "/src/assets/asado-de-tira-con-ensalada.webp",
   "color": "#4D2113",
   "distribution": {
   "asado de tira": 200,
@@ -1015,7 +1015,7 @@
   "protein": 27.0,
   "fiber": 1.7,
   "preparation": "1. Realiza mise en place: lava y seca bien la lechuga y el tomate. Corta el tomate en rodajas finas y reserva. 2. En un bol, mezcla la carne molida con la mostaza Dijon, la sal y la pimienta. Integra bien para que la mostaza se distribuya uniformemente. 3. Forma un disco de carne de aproximadamente 150 g, de 1.5 a 2 cm de grosor. 4. Precalienta una sartén antiadherente o parrilla a fuego medio-alto (180-200 °C). Añade el aceite de oliva y distribúyelo bien. 5. Cocina la hamburguesa 4-5 minutos por cada lado para término medio, ajustando tiempo según preferencia y grosor. 6. Retira la hamburguesa y deja reposar 3 minutos sobre una rejilla para que los jugos se redistribuyan. 7. En el plato, coloca primero la lechuga, encima la hamburguesa y finalmente las rodajas de tomate. 8. Sirve inmediatamente para preservar la textura y temperatura óptima.",
-  "image": "/src/assets/hamburguesa-res.png",
+  "image": "/src/assets/hamburguesa-res.webp",
   "color": "#5F3823",
   "distribution": {
   "carne molida de res": 150,
@@ -1044,7 +1044,7 @@
     "protein": 36.3,
     "fiber": 2.3,
     "preparation": "1. Mise en place: Pesar y preparar todos los ingredientes. 2. Cocina el fettuccini en abundante agua con sal (10 g/L) hirviendo hasta que esté al dente (aprox. 8-10 minutos), remover ocasionalmente. Escurre y reserva. 3. Mientras tanto, corta la pechuga de pollo en tiras o cubos medianos. 4. En una sartén antiadherente a fuego medio, precalienta la mantequilla hasta que se derrita completamente y comience a burbujear levemente, sin que llegue a dorarse. 5. Añade la pechuga de pollo, sazona con sal y pimienta, y cocina hasta que esté completamente cocida y dorada por fuera (aprox. 6-8 minutos), removiendo ocasionalmente. Retira el pollo y reserva. 6. En la misma sartén, reduce a fuego bajo y añade la crema de leche y el queso parmesano rallado; mezcla constantemente para evitar que la salsa se corte o pegue, hasta obtener una salsa cremosa homogénea (aprox. 3-4 minutos). 7. Incorpora la pasta escurrida y el pollo cocido a la sartén con la salsa Alfredo; mezcla suavemente para cubrir uniformemente todos los ingredientes. 8. Cocina todo junto 1-2 minutos para integrar sabores y temperatura uniforme. 9. Ajusta sazón con sal y pimienta si es necesario. 10. Sirve inmediatamente, evitando que la pasta repose demasiado para que la salsa no se espese o se seque.",
-    "image": "/src/assets/fettuccini-alfredo.png",
+    "image": "/src/assets/fettuccini-alfredo.webp",
     "color": "#C8B090",
     "distribution": {
       "fettuccini": 80,
@@ -1071,7 +1071,7 @@
   "protein": 35,
   "fiber": 3.2,
   "preparation": "1. Realiza mise en place: pesa y prepara todos los ingredientes; lava la carne y sécala con papel absorbente. 2. Sazona la carne con sal al gusto (aprox. 2 g) y déjala atemperar 10 minutos fuera del refrigerador. 3. Precalienta la parrilla o sartén a temperatura media-alta (~200 °C). 4. Cocina la carne 3-4 minutos por lado para término medio (temperatura interna 54-57 °C), hasta lograr buen sellado; retira y deja reposar en plato caliente cubierto con papel aluminio durante 5 minutos para redistribuir jugos. 5. Mientras tanto, hierve 1 litro de agua con 6 g de sal; añade el espagueti y cocina al dente según indicación del paquete (aprox. 8 minutos). 6. Escurre la pasta reservando 50 ml del agua de cocción. 7. En un bol grande, mezcla la pasta caliente con la salsa pesto, agregando el agua de cocción poco a poco para homogeneizar y dar brillo a la salsa. 8. Sirve el espagueti en plato caliente y coloca la carne cortada en tiras sobre la pasta. 9. Opcional: decora con hojas frescas de albahaca o queso parmesano rallado.",
-  "image": "/src/assets/espagueti-pesto-carne.png",
+  "image": "/src/assets/espagueti-pesto-carne.webp",
   "color": "#4F4B11",
   "distribution": {
   "espagueti cocido": 140,
@@ -1100,7 +1100,7 @@
     "protein": 33.4,
     "fiber": 5.2,
     "preparation": "1. Realizar mise en place: pesar todos los ingredientes, pelar y picar cebolla y ajo finamente. 2. Llevar agua a ebullición en una olla grande, añadir sal (unos 10 g de sal por litro de agua) y cocinar el espagueti seco hasta que esté \"al dente\" (aproximadamente 8‑10 minutos); escurrir y reservar, sin enjuagar para conservar almidón que ayuda a ligar la salsa. 3. En sartén mediana, calentar aceite de oliva a temperatura media (unos 180 °C en fondo de sartén). 4. Añadir cebolla picada, sal ligera, sofreír durante unos 3‑4 minutos hasta que esté translúcida; agregar ajo picado y cocinar 1 minuto más sin dejar que se dore demasiado para evitar sabor amargo. 5. Incorporar la carne molida, subir un poco el fuego para dorar, romperla bien para evitar grumos, cocinar hasta que pierda el tono rosado (~5‑6 minutos). 6. Añadir tomate triturado, orégano, pimienta negra; mezclar, bajar el fuego a medio‑bajo, cubrir parcialmente y cocer gentle‑mente durante 15‑20 minutos, removiendo de vez en cuando para evitar que la salsa se pegue; ajustar sal si es necesario. 7. Si la salsa parece demasiado líquida, destapar los últimos 5 minutos para evaporar exceso de agua; si demasiado espesa, añadir unas gotas de agua caliente. 8. Emplatar: servir espagueti, verter salsa boloñesa encima, opcionalmente decorar con hierbas frescas. 9. Reposo opcional de 2 minutos tras servir para que la estructura de la salsa se estabilice y los sabores descansen ligeramente.",
-    "image": "/src/assets/espagueti-bolonesa.png",
+    "image": "/src/assets/espagueti-bolonesa.webp",
     "color": "#7F2100",
     "distribution": {
       "espagueti cocido": 80,
@@ -1128,7 +1128,7 @@
     "protein": 34.5,
     "fiber": 3.0,
     "preparation": "1. Mise en place: pesar todos los ingredientes; picar finamente la cebolla; tener lista la leche a temperatura ambiente. 2. Precalienta sartén a fuego medio‑alto para cocinar el bistec; limpia el bistec y sécalo. 3. Cocina el espagueti en agua hirviendo con 8 g de sal por litro, según paquete (unos 8‑10 minutos) hasta al dente; escúrrelo y reserva. 4. En otra sartén, calienta los 5 ml de aceite vegetal a fuego medio; añade la cebolla picada y sofríe 2‑3 minutos hasta transparente, sin dorar demasiado. Retira la cebolla y reserva. 5. Para la salsa bechamel: derrite los 10 g de mantequilla en olla pequeña a fuego medio; añade los 10 g de harina y cocina el roux durante 1‑2 minutos, removiendo, sin que se oscurezca. 6. Agrega la leche poco a poco mientras bates vigorosamente para evitar grumos; cocina durante 3‑4 minutos hasta que la salsa espese lo suficiente como para cubrir la parte posterior de una cuchara (aproximadamente punto de napado). Ajusta con sal y pimienta al gusto. 7. Mientras tanto, cocina el bistec: en sartén bien caliente, con unas gotas de aceite si es necesario, cocina 2‑3 minutos por lado (dependiendo grosor) hasta el punto deseado; deja reposar el bistec 5 minutos sobre rejilla antes de cortar en tiras. 8. Montaje: mezcla el espagueti escurrido con la bechamel; coloca las tiras de bistec por encima; opcionalmente decorar con la cebolla sofrita. 9. Servir inmediatamente mientras está caliente.",
-    "image": "/src/assets/espagueti-bistec-bechamel.png",
+    "image": "/src/assets/espagueti-bistec-bechamel.webp",
     "color": "#E0C7A7",
     "distribution": {
       "espagueti": 80,
@@ -1154,7 +1154,7 @@
     "protein": 22.6,
     "fiber": 0.0,
     "preparation": "1. Realiza mise en place: seca el filete de pescado con papel absorbente; mide todos los ingredientes. 2. Atemperar: dejar el pescado 5‑10 minutos a temperatura ambiente para evitar choque térmico en la cocción. 3. Precalienta una plancha o sartén antiadherente sobre fuego medio‑alto. 4. Añade el aceite de oliva y distribúyelo uniformemente en la superficie; calienta hasta que esté tibio (no debe humear excesivamente). 5. Sazona ambos lados del filete con sal y pimienta justo antes de ponerlo en la sartén. 6. Coloca el filete y cocina 3 minutos por lado (o hasta que alcance unos 55‑60 °C internos) si su grosor es estándar (~2 cm), ajustando el tiempo según grosor. 7. Durante la cocción, evita mover el pescado para permitir la formación de una fina costra uniforme. 8. Una vez cocido, retira de la plancha y déjalo reposar sobre rejilla o plato caliente por 2 minutos para redistribuir jugos. 9. Al momento de servir, rocía con el jugo de limón sobre el filete (no antes de cocinar para evitar pérdidas).",
-    "image": "/src/assets/pescado-a-la-plancha.png",
+    "image": "/src/assets/pescado-a-la-plancha.webp",
     "color": "#AD7D64",
     "distribution": {
       "pescado (filete)": 150,
@@ -1179,7 +1179,7 @@
     "protein": 20.5,
     "fiber": 0.1,
     "preparation": "1. Realiza mise en place: mide y pica el eneldo, extrae el zumo del limón; seca superficialmente el filete de salmón con papel absorbente. 2. Precalienta el horno a 200 °C (modo estático o calor arriba‑abajo) con bandeja de horneado vacía dentro durante 10 minutos. 3. Coloca el filete de salmón sobre papel vegetal o una lámina antiadherente sobre la bandeja caliente. 4. Unta el filete con el aceite de oliva (5 ml), distribuye uniformemente con brocha. 5. Sazona con sal (1 g) y pimienta (0.5 g). 6. Riega con el zumo de limón (15 g) y espolvorea el eneldo picado (5 g). 7. Hornea durante 12‑15 minutos, hasta que el interior alcance 63 °C o el pescado se desmenuce al presionar con tenedor. 8. Retira del horno y deja reposar 3 minutos dentro del horno apagado con puerta entreabierta. 9. Emplata sin piel (si la conserva) y sirve inmediatamente.",
-    "image": "/src/assets/salmon-al-horno.png",
+    "image": "/src/assets/salmon-al-horno.webp",
     "color": "#F2896B",
     "distribution": {
       "salmón": 120,
@@ -1206,7 +1206,7 @@
   "protein": 30.7,
   "fiber": 2.1,
   "preparation": "1. Mise en place: lava los espárragos, seca con papel absorbente; pela los extremos duros. Pica el ajo fino. Sazona el filete de tilapia con sal y pimienta. 2. Precalienta una sartén antiadherente a fuego medio‑alto. Agrega el aceite de oliva y caliéntalo hasta que esté caliente pero sin humo (≈ 180 °C en la superficie). 3. Añade el ajo picado y sofríe durante 20‑30 segundos hasta que esté fragante, cuidando que no se dore demasiado para evitar sabor amargo. 4. Incorpora los espárragos y saltea por unos 4‑5 minutos, moviendo frecuentemente, hasta que estén tiernos‑crujientes. 5. Retira los espárragos y mantenlos calientes (puedes reservarlos en baño maría leve o tapados). 6. En la misma sartén, coloca el filete de tilapia; cocina 3‑4 minutos por lado, dependiendo del grosor, hasta que la carne se desmenuce fácilmente con el tenedor (temperatura interna de ≈ 63 °C). 7. Retira el pescado y deja reposar 2 minutos antes de servir para que los jugos se redistribuyan. 8. Emplatado: coloca primero los espárragos, luego el filete; decora con el ajo restante si lo deseas.",
-  "image": "/src/assets/tilapia-esparragos.png",
+  "image": "/src/assets/tilapia-esparragos.webp",
   "color": "#91A136",
   "distribution": {
   "tilapia (pescado)": 120,
@@ -1233,7 +1233,7 @@
   "protein": 29.5,
   "fiber": 0.6,
   "preparation": "1. Realiza mise en place: lava, seca y pica ajo, jengibre, cebollita; mide todos los ingredientes. 2. Cocina el arroz: en olla con 3 partes de agua por 1 parte de arroz, lleva a hervor, luego baja a fuego medio-bajo con tapa y cuece 15 min o hasta absorción; apaga fuego y deja reposar 10 min con la tapa puesta. 3. Seca la superficie del salmón con papel absorbente. 4. En sartén antiadherente apta para calor, calienta 5 ml de aceite de oliva a fuego medio‑alto hasta que brille y esté caliente (~180 °C). 5. Añade el salmón con la piel hacia abajo (si tiene) y cocina 3 minutos sin mover, luego gira y cocina otros 2 minutos (grosor ~2 cm). 6. Mientras se cocina el salmón, reduce la salsa teriyaki con ajo y jengibre: en una pequeña olla aparte, pone 30 ml de salsa teriyaki con jengibre y ajo, lleva a ebullición suave y cuece 1‑2 minutos hasta que reduzca levemente y espese. 7. Cuando el salmón esté casi en su punto, vierte la salsa reducida sobre él y deja que glasee por 30 s. 8. Retira el salmón y deja reposar 2 minutos sobre rejilla o plato caliente. 9. Sirve sobre el arroz cocido, espolvorea cebollita verde y semillas de sésamo al final.",
-  "image": "/src/assets/salmon-teriyaki.png",
+  "image": "/src/assets/salmon-teriyaki.webp",
   "color": "#C86632",
   "distribution": {
   "salmón": 120,
@@ -1259,7 +1259,7 @@
     "protein": 45.99,
     "fiber": 0.00,
     "preparation": "1. Mise en place: pesar y tener listos todos los ingredientes; secar el pulpo cocido con papel absorbente para garantizar buen contacto al grill. 2. Si la parrilla o plancha admite precalentado, caliéntala a alta temperatura (alrededor de 200‑220 °C) durante 5 minutos. 3. En un bol, mezclar el aceite de oliva con el pimentón, la sal y la pimienta hasta emulsificar. 4. Untar el pulpo con esa mezcla (asegurarse que cada tentáculo esté bien impregnado). 5. Colocar el pulpo sobre la parrilla caliente; cocinar 3 a 4 minutos por lado, con giro cuidadoso, hasta que se obtengan marcas de carbonizado leve y textura firme. 6. Retirar y transferir inmediatamente a una bandeja ligeramente templada; dejar reposar 2 minutos antes de servir. 7. Servir cortado en trozos si se desea, acompañándolo con la rodaja de limón si se usa.",
-    "image": "/src/assets/pulpo-parrilla.png",
+    "image": "/src/assets/pulpo-parrilla.webp",
     "color": "#905A59",
     "distribution": {
       "pulpo": 150,
@@ -1291,7 +1291,7 @@
     "protein": 35.5,
     "fiber": 10.0,
     "preparation": "1. Mise en place: pela y pica finamente la cebolla, corta la zanahoria en cubos de ~5 mm y pica finamente el ajo; pesa todos los ingredientes. 2. Lava las lentejas secas; escúrrelas. 3. En una olla mediana, calienta el aceite de oliva a fuego medio (~150‑160 °C). Añade la cebolla y el ajo; sofríe durante 2‑3 minutos hasta que estén translúcidos sin dorar excesivamente. 4. Agrega la zanahoria y cocina 2 minutos más removiendo. 5. Incorpora las lentejas y vierte los 250 ml de agua junto con el caldo de verduras adicional; sube el fuego hasta llevar a hervor. 6. Una vez que hierva, reduce el fuego a bajo, tapa parcialmente y deja cocer durante 20‑25 minutos, removiendo de vez en cuando para evitar que las lentejas se peguen; si se seca demasiado, añade agua caliente adicional. 7. Mientras tanto, enjuaga el arroz crudo bajo agua fría; en otra olla, cuécelo en agua hirviendo con sal (proporción aproximadamente 2 partes de agua por 1 de arroz) durante 12‑15 minutos hasta que esté cocido y suelto; escurre y reserva. 8. Sazona el filete de pescado con sal y pimienta. Calienta una sartén antiadherente (precalentada) con unas gotas de aceite si es necesario, cocina el pescado blanco 3‑4 minutos por lado o hasta que alcance una temperatura interna de ~63 °C; retira del fuego y deja reposar 2 minutos. 9. Emplata: coloca arroz, luego las lentejas guisadas con verduras y finalmente el filete de pescado encima; ajusta sal y pimienta al gusto.",
-    "image": "/src/assets/lentejas-pescado.png",
+    "image": "/src/assets/lentejas-pescado.webp",
     "color": "#633404",
     "distribution": {
       "lentejas con verduras": 160,
@@ -1320,7 +1320,7 @@
   "protein": 13.8,
   "fiber": 4.1,
   "preparation": "1. Realiza mise en place: pesa y dispone todos los ingredientes; lava tomates y cebolla. 2. Escurre el atún y desmenúzalo ligeramente con tenedor. 3. En un bol grande mezcla las lentejas cocidas y el arroz cocido, ambos ya fríos o a temperatura ambiente. 4. Agrega el atún desmenuzado, los tomates cherry partidos por la mitad y la cebolla morada cortada en juliana fina. 5. En un recipiente aparte emulsiona el aceite de oliva con el jugo de limón, añade sal y pimienta, mezcla vigorosamente para integrar. 6. Vierte el aliño sobre la ensalada y mezcla con movimientos envolventes para no deshacer los granos. 7. Reposa en refrigeración al menos 10 minutos antes de servir para que los sabores se integren (no más de 1 hora para mantener textura).",
-  "image": "/src/assets/ensalada-lentejas-atun.png",
+  "image": "/src/assets/ensalada-lentejas-atun.webp",
   "color": "#B4A16D",
   "distribution": {
   "lentejas": 100,
@@ -1350,7 +1350,7 @@
   "protein": 30,
   "fiber": 6,
   "preparation": "1. Realiza mise en place: pela y pica finamente la cebolla y el ajo; mide los demás ingredientes. 2. Calienta una olla mediana a fuego medio y añade el aceite de oliva para que se precaliente. 3. Agrega la cebolla y el ajo picados, sofríe hasta que estén transparentes, aproximadamente 3-4 minutos, removiendo para evitar que se quemen. 4. Incorpora las arvejas crudas y mezcla bien con el sofrito. 5. Añade el caldo de verduras y una pizca de sal y pimienta, lleva a ebullición, luego reduce el fuego a bajo, tapa y cocina durante 15 minutos o hasta que las arvejas estén tiernas. 6. Mientras tanto, seca el filete de pescado con papel absorbente, sazona con sal y pimienta. 7. Precalienta una sartén antiadherente a fuego medio-alto, añade un poco de aceite de oliva si es necesario. 8. Cocina el filete de pescado aproximadamente 3-4 minutos por lado, hasta que esté opaco y se desmenuce fácilmente con un tenedor. 9. Retira el pescado y deja reposar sobre un plato limpio por 2 minutos. 10. Sirve el guiso de arvejas en el plato y coloca el filete de pescado a la plancha encima. 11. Opcionalmente, puede decorar con perejil fresco picado para aportar frescura.",
-  "image": "/src/assets/arvejas-pescado.png",
+  "image": "/src/assets/arvejas-pescado.webp",
   "color": "#BB9B33",
   "distribution": {
   "arvejas": 150,
@@ -1379,7 +1379,7 @@
   "protein": 30.8,
   "fiber": 6.0,
   "preparation": "1. Realiza mise en place: lava las arvejas y el filete de salmón; pica finamente el eneldo fresco. 2. Precalienta el horno a 180 °C y prepara una bandeja con papel de horno. 3. Coloca el salmón en la bandeja, salpimienta al gusto, espolvorea el eneldo y rocía con aceite de oliva. 4. Hornea el salmón durante 12-15 minutos o hasta que alcance una temperatura interna de 60 °C y la carne se desmenuce fácilmente. 5. Mientras tanto, cuece las arvejas en agua hirviendo con sal durante 8-10 minutos hasta que estén tiernas. 6. Escurre las arvejas y pásalas inmediatamente por un baño en hielo para conservar su color y textura. 7. En una licuadora o procesador, añade las arvejas cocidas junto con el caldo vegetal y tritura hasta obtener un puré cremoso; ajusta la textura añadiendo más caldo si es necesario. 8. Corrige la sazón del puré con una pizca de sal y pimienta. 9. Sirve el puré de arvejas en un plato y coloca el filete de salmón horneado encima. 10. Recomienda reposar el salmón 2 minutos antes de servir para mejores jugosidad y presentación.",
-  "image": "/src/assets/pure-arvejas-salmon.png",
+  "image": "/src/assets/pure-arvejas-salmon.webp",
   "color": "#BB9B33",
   "distribution": {
   "pure_de_arvejas": 150,
@@ -1407,7 +1407,7 @@
   "protein": 29.8,
   "fiber": 7.0,
   "preparation": "1. Realiza mise en place: pica finamente la cebolla y el ajo. 2. Remoja los frejoles rojos en agua fría durante al menos 8 horas o toda la noche para reducir tiempos de cocción y mejorar digestibilidad; escúrrelos. 3. Cocina los frejoles en agua sin sal, en olla a presión por 25-30 minutos o hasta que estén tiernos pero firmes; escúrrelos y reserva. 4. Cocina el arroz blanco en agua con sal (2 g), a fuego medio, durante 15-18 minutos hasta que esté tierno y el agua absorbida; escurre si es necesario. 5. Calienta una sartén con aceite de oliva (10 ml) a fuego medio, añade la cebolla y el ajo, sofríe hasta que estén transparentes y fragantes (3-4 minutos). 6. Añade los frejoles cocidos a la sartén, salpimienta al gusto, mezcla y cocina 3 minutos para integrar sabores. 7. En otra sartén antiadherente, precalienta a fuego medio-alto y cocina el filete de pescado blanco previamente salpimentado por 3-4 minutos por lado, hasta que alcance una temperatura interna de 63 °C y la carne esté opaca y firme. 8. Emplata distribuyendo arroz, frejoles y pescado en porciones equilibradas. 9. Opcional: deja reposar el pescado 2 minutos antes de servir para mejorar jugosidad.",
-  "image": "/src/assets/frejoles-pescado.png",
+  "image": "/src/assets/frejoles-pescado.webp",
   "color": "#72272E",
   "distribution": {
   "frejoles rojos cocidos": 120,
@@ -1438,7 +1438,7 @@
   "protein": 27.6,
   "fiber": 8.1,
   "preparation": "1. Mise en place: Pesa y prepara todos los ingredientes. Pica finamente la cebolla y el ajo. 2. Remoja los frijoles negros en agua fría durante al menos 8 horas para facilitar la cocción y mejorar digestibilidad. 3. Escurre y enjuaga los frijoles; coloca en olla con 400 ml de agua y sal al gusto, cocina a fuego medio-bajo durante 60-75 minutos hasta que estén tiernos, agregando agua si es necesario. 4. En sartén, calienta 10 ml de aceite de oliva a temperatura media, sofríe la cebolla y ajo hasta que estén translúcidos y aromáticos (3-4 minutos). 5. Incorpora los frijoles cocidos a la sartén y cocina a fuego lento, machacando ligeramente para obtener una textura de frijoles refritos, rectifica sazón y mantén caliente. 6. Para el pescado: seca el filete con papel absorbente, sazona con sal. 7. Calienta el aceite de girasol para freír en sartén a 180°C (uso de termómetro recomendado). 8. Fríe el filete de pescado 3-4 minutos por lado hasta obtener un dorado uniforme y textura crujiente, retira y deja escurrir sobre papel absorbente para eliminar exceso de grasa. 9. Cocina el arroz blanco previamente lavado y escurrido, en agua hirviendo con sal, hasta que esté tierno (aprox. 15 minutos), esponja con tenedor y reserva. 10. Emplatado: sirve 80 g de arroz cocido, 80 g de frijoles refritos y el filete de pescado frito (100 g).",
-  "image": "/src/assets/frejoles-pescado-frito.png",
+  "image": "/src/assets/frejoles-pescado-frito.webp",
   "color": "#241F24",
   "distribution": {
   "frijoles refritos": 80,
@@ -1466,7 +1466,7 @@
   "protein": 33.6,
   "fiber": 11.4,
   "preparation": "1. Mise en place: Lava los frijoles negros y déjalos en remojo en agua fría durante al menos 8 horas para mejorar la digestibilidad. 2. Lava y corta el pimiento rojo en juliana fina; pela y lamina el ajo. 3. Enjuaga el arroz bajo agua fría hasta que el agua salga clara para eliminar almidón superficial. 4. Escurre los frijoles y colócalos en una olla con 300 ml de agua y 1 g de sal; cocina a fuego medio-bajo con tapa hasta que estén tiernos (aproximadamente 1 hora), verificando que no falte agua y removiendo ocasionalmente. 5. Cocina el arroz en olla con 160 ml de agua y 1 g de sal; cuando hierva, baja el fuego al mínimo, tapa y cocina 15 minutos o hasta que se absorba el agua; deja reposar tapado 5 minutos. 6. Seca bien la tilapia con papel absorbente y córtala en tiras de aproximadamente 1 cm de ancho. 7. Calienta una sartén antiadherente a fuego medio-alto, añade el aceite de oliva y deja calentar hasta que esté caliente pero no humeante (unos 180 °C). 8. Saltea primero el ajo laminado durante 30 segundos hasta que libere aroma, agrega las tiras de tilapia y cocina 3-4 minutos hasta que estén opacas y ligeramente doradas, removiendo suavemente. 9. Añade el pimiento rojo y cocina 2 minutos más hasta que esté tierno-crujiente; ajusta de sal. 10. Emplatado: sirve una base de arroz, encima los frijoles negros escurridos (sin caldo) y finalmente las tiras de tilapia con pimiento y ajo salteados.",
-  "image": "/src/assets/frejoles-tilapia.png",
+  "image": "/src/assets/frejoles-tilapia.webp",
   "color": "#241F24",
   "distribution": {
   "frijoles_negros_cocidos": 120,
@@ -1496,7 +1496,7 @@
   "protein": 29.5,
   "fiber": 8.1,
   "preparation": "1. Realiza mise en place: Pica finamente la cebolla y el ajo; pesa y enjuaga los frejoles canarios. 2. Remoja los frejoles en agua fría al menos 8 horas o toda la noche para reducir el tiempo de cocción y mejorar la digestibilidad. 3. Escurre y coloca los frejoles en una olla con 400 ml de agua fresca, la cebolla picada, el ajo y una pizca de sal. Lleva a ebullición y reduce a fuego medio‑bajo; cocina tapado durante 1 a 1.5 horas o hasta que estén tiernos y cremosos, removiendo ocasionalmente para evitar que se peguen. 4. Mientras, enjuaga el arroz varias veces hasta que el agua salga clara para eliminar almidón superficial; reserva. 5. En una olla aparte, cocina el arroz con el doble de volumen de agua y una pizca de sal; lleva a ebullición, tapa y cocina a fuego bajo por 15 minutos o hasta que el agua se absorba y el arroz esté tierno. Apaga el fuego y deja reposar tapado 5 minutos. 6. Seca el filete de pescado con papel absorbente, sazona con sal y pimienta. Precalienta una sartén antiadherente a fuego medio‑alto con el aceite de oliva. 7. Cocina el pescado 3‑4 minutos por lado hasta que esté dorado y alcance una temperatura interna mínima de 63 °C, cuidando que quede jugoso. Retira y deja reposar 2 minutos. 8. Emplatado: sirve primero el guiso cremoso de frejoles, coloca el arroz a un lado y el filete de pescado encima o al costado. 9. Opcionalmente decora con perejil fresco picado.",
-  "image": "/src/assets/frejoles-canarios-pescado.png",
+  "image": "/src/assets/frejoles-canarios-pescado.webp",
   "color": "#BA7E5B",
   "distribution": {
   "frejoles canarios cocidos": 180,
@@ -1526,7 +1526,7 @@
   "protein": 28.7,
   "fiber": 9.1,
   "preparation": "1. Realiza mise en place: lava los frejoles canarios y remójalos en agua fría al menos 8 horas o toda la noche para mejorar su digestibilidad y cocción. 2. Escurre los frejoles y colócalos en una olla con 400 ml de agua limpia y una pizca de sal. Lleva a ebullición y cocina a fuego medio-bajo durante 60-75 minutos o hasta que estén tiernos, removiendo ocasionalmente y retirando espuma. 3. Mientras tanto, enjuaga el arroz blanco bajo agua fría hasta que el agua salga clara, para eliminar almidón. Cocina el arroz en agua hirviendo con sal según proporción 1:2 (arroz:agua) durante 15 minutos o hasta que esté tierno y esponjoso. Escurre y reserva. 4. Pica finamente la cebolla y el perejil fresco. 5. Calienta una sartén antiadherente a fuego medio, añade el aceite de oliva y sofríe la cebolla durante 4-5 minutos hasta que esté translúcida y fragante, evitando que se dore demasiado para no perder suavidad. 6. Agrega los frejoles canarios cocidos y escurridos a la sartén con la cebolla, mezcla bien y cocina 3 minutos para integrar sabores. 7. Añade el atún escurrido y mezcla cuidadosamente para no deshacerlo, cocina 2 minutos más para templar el atún. 8. Incorpora el arroz cocido y mezcla uniformemente, ajusta de sal si es necesario. Cocina 2 minutos más para amalgamar el plato. 9. Apaga el fuego, espolvorea con perejil fresco picado y mezcla suavemente. 10. Sirve inmediatamente, manteniendo el plato caliente para conservar texturas y sabores.",
-  "image": "/src/assets/frejoles-atun-perejil.png",
+  "image": "/src/assets/frejoles-atun-perejil.webp",
   "color": "#BA7E5B",
   "distribution": {
   "frejoles canarios cocidos": 150,
@@ -1557,7 +1557,7 @@
   "protein": 24.0,
   "fiber": 7.4,
   "preparation": "1. Realiza mise en place: lava las espinacas frescas y pica finamente el ajo. 2. Calienta una sartén a fuego medio y añade el aceite de oliva virgen extra para que se precaliente ligeramente. 3. Agrega el ajo picado y sofríe suavemente durante 1 minuto sin que se queme para aromatizar el aceite. 4. Incorpora la salsa de tomate natural y cocina a fuego medio-bajo durante 5 minutos, removiendo ocasionalmente. 5. Añade los garbanzos cocidos y mezcla bien para integrar sabores. 6. Incorpora las espinacas frescas y cocina durante 3-4 minutos hasta que se marchiten, revolviendo para evitar que se peguen. 7. Añade el atún escurrido y desmenuzado, mezclando suavemente para combinar sin romper demasiado el pescado. 8. Salpimienta al gusto y cocina un minuto más para calentar todo homogéneamente. 9. Retira del fuego y deja reposar 2 minutos antes de emplatar para que los sabores se asienten.",
-  "image": "/src/assets/garbanzos-atun-espinacas.png",
+  "image": "/src/assets/garbanzos-atun-espinacas.webp",
   "color": "#D0955C",
   "distribution": {
   "garbanzos cocidos": 100,
@@ -1588,7 +1588,7 @@
   "protein": 30.5,
   "fiber": 2.3,
   "preparation": "1. Realiza mise en place: lava y seca la lechuga romana; ralla el queso parmesano y reserva. 2. Sazona la pechuga de pollo con sal y pimienta negra molida. 3. Precalienta la parrilla o sartén a temperatura media-alta (180-200 °C). Unta ligeramente la pechuga con aceite de oliva para evitar que se pegue. 4. Cocina el pollo durante 5-7 minutos por lado, hasta alcanzar una temperatura interna mínima de 74 °C. 5. Retira el pollo de la parrilla y deja reposar 5 minutos sobre una rejilla para redistribuir los jugos, luego córtalo en tiras o cubos. 6. Corta la lechuga romana en trozos medianos y colócala en un bol grande. 7. Añade los crutones, el queso parmesano rallado y el pollo ya cortado. 8. Incorpora el aderezo César y mezcla suavemente para que todos los ingredientes queden bien integrados sin que la lechuga se marchite. 9. Sirve inmediatamente para conservar la textura crujiente de los crutones y la frescura de la lechuga.",
-  "image": "/src/assets/ensalada-cesar-pollo.png",
+  "image": "/src/assets/ensalada-cesar-pollo.webp",
   "color": "#9BB63F",
   "distribution": {
   "lechuga romana": 50,
@@ -1619,7 +1619,7 @@
   "protein": 29.3,
   "fiber": 6.7,
   "preparation": "1. Realiza mise en place: lava cuidadosamente la lechuga, tomates cherry y la cebolla morada. Escurre y seca con papel absorbente. 2. Corta la lechuga en trozos medianos, parte los tomates cherry a la mitad, pica finamente la cebolla y corta el aguacate en cubos uniformes. 3. Calienta ligeramente la pechuga de pollo cocida si está fría, para mejorar sabor y textura; deja reposar 5 minutos a temperatura ambiente. 4. En un bol amplio, mezcla la lechuga, tomate, cebolla, aguacate y pollo. 5. En un recipiente pequeño, emulsiona el aceite de oliva con el jugo de limón, la sal y la pimienta hasta integrar completamente. 6. Vierte el aliño sobre la ensalada y mezcla suavemente para evitar que el aguacate se aplaste. 7. Ajusta sazón al gusto y sirve inmediatamente para preservar frescura y textura de los ingredientes.",
-  "image": "/src/assets/ensalada-pollo-aguacate.png",
+  "image": "/src/assets/ensalada-pollo-aguacate.webp",
   "color": "#A9B058",
   "distribution": {
   "pollo cocido": 120,
@@ -1652,7 +1652,7 @@
   "protein": 30.3,
   "fiber": 2.3,
   "preparation": "1. Realiza mise en place: lava y seca cuidadosamente todas las verduras y hierbas frescas. 2. Precalienta una sartén antiadherente a fuego medio-alto. 3. Cocina la pechuga de pollo sin piel en la sartén con un poco de aceite de oliva (5 ml) hasta que esté dorada y alcance una temperatura interna mínima de 74 °C, aproximadamente 5-6 minutos por lado. 4. Retira el pollo y deja reposar 5 minutos antes de cortar en tiras o cubos. 5. Corta el pepino en rodajas finas, rebana el rábano en láminas y reserva. 6. En un bol grande, mezcla las espinacas, el pepino y el rábano. 7. En un recipiente pequeño, emulsiona el jugo de limón, el aceite de oliva restante (5 ml), sal, pimienta y las hierbas frescas picadas finamente. 8. Vierte el aderezo sobre las verduras y mezcla suavemente para integrar. 9. Coloca el pollo cortado sobre la ensalada. 10. Sirve inmediatamente o refrigera hasta el momento de consumir para mantener frescura y textura.",
-  "image": "/src/assets/ensalada-pollo-limon.png",
+  "image": "/src/assets/ensalada-pollo-limon.webp",
   "color": "#F5DC60",
   "distribution": {
   "pollo": 120,
@@ -1681,7 +1681,7 @@
   "protein": 29.7,
   "fiber": 3.5,
   "preparation": "1. Realiza mise en place: lava y seca el brócoli y la zanahoria. 2. Cocina el brócoli al vapor durante 4-5 minutos hasta que esté tierno pero aún crujiente; tras cocción, enfría rápidamente en baño de hielo para conservar color y textura. 3. Pela y ralla la zanahoria fina y reserva. 4. Desmenuza la pechuga de pollo cocida, preferentemente cocida en agua o al vapor para mantener jugosidad y bajo contenido graso. 5. En un bol, mezcla el yogur natural con el jugo de limón, la sal y la pimienta hasta obtener un aderezo homogéneo. 6. Incorpora el brócoli, la zanahoria rallada y el pollo desmenuzado al bol con el aderezo; mezcla suavemente para integrar todos los ingredientes sin dañar la textura del brócoli. 7. Deja reposar la ensalada en refrigeración por al menos 10 minutos para que se integren sabores y se sirva fresca.",
-  "image": "/src/assets/ensalada-pollo-brocoli.png",
+  "image": "/src/assets/ensalada-pollo-brocoli.webp",
   "color": "#A2A856",
   "distribution": {
   "pollo": 120,
@@ -1710,7 +1710,7 @@
   "protein": 15.3,
   "fiber": 2.2,
   "preparation": "1. Realiza mise en place: lava la lechuga, el tomate y la cebolla; seca bien con papel absorbente. 2. Llena una cacerola con agua y precaliéntala a ebullición. 3. Introduce los huevos y cuece a fuego medio-alto por 10-12 minutos para obtener huevos duros. 4. Retira los huevos y pásalos por agua fría para detener la cocción y facilitar el pelado (baño en hielo opcional). 5. Pela y pica los huevos en cubos medianos. 6. Corta la lechuga en juliana o trozos medianos, el tomate en cubos y la cebolla en juliana fina. 7. En un bol grande, mezcla suavemente todos los ingredientes sólidos. 8. Añade el aceite de oliva, vinagre, sal y pimienta; mezcla suavemente para integrar el aliño sin dañar las verduras. 9. Reposa la ensalada en frío por 5-10 minutos para que los sabores se integren antes de servir.",
-  "image": "/src/assets/ensalada-huevo-duro.png",
+  "image": "/src/assets/ensalada-huevo-duro.webp",
   "color": "#CAC9C4",
   "distribution": {
   "huevo duro": 100,
@@ -1739,7 +1739,7 @@
   "protein": 15.2,
   "fiber": 1.2,
   "preparation": "1. Realiza mise en place: lava y seca el tomate y las hojas de albahaca con papel absorbente. 2. Corta el tomate en rodajas de aproximadamente 5 mm de grosor. 3. Corta la mozzarella fresca en rodajas del mismo grosor que el tomate. 4. Alterna las rodajas de tomate y mozzarella en un plato plano, superponiéndolas ligeramente para una presentación homogénea. 5. Distribuye las hojas de albahaca fresca sobre las rodajas de tomate y queso. 6. Añade sal fina y pimienta negra molida al gusto. 7. Rocía el aceite de oliva virgen extra uniformemente sobre toda la ensalada. 8. Refrigera brevemente (10 minutos) antes de servir para potenciar frescura, evitando que el queso pierda textura. 9. Sirve en plato frío para mantener temperatura óptima durante el consumo.",
-  "image": "/src/assets/ensalada-caprese.png",
+  "image": "/src/assets/ensalada-caprese.webp",
   "color": "#CB5D4B",
   "distribution": {
   "tomate": 100,
@@ -1769,7 +1769,7 @@
   "protein": 31.5,
   "fiber": 3.6,
   "preparation": "1. Realiza mise en place: mide y prepara todos los ingredientes, lava y seca bien las espinacas con papel absorbente. 2. Cocina la pasta en agua hirviendo con sal (10 g/l) durante el tiempo indicado en el paquete hasta obtener punto al dente (aprox. 8-10 min). 3. Escurre la pasta y pásala por agua fría para detener la cocción y evitar que se pegue; escúrrela bien y déjala reposar en una bandeja fría. 4. Cocina la pechuga de pollo a la plancha o al vapor hasta alcanzar una temperatura interna mínima de 74 °C, deja reposar 5 minutos y córtala en cubos uniformes. 5. En un bol grande, mezcla la pasta fría, el pollo, las espinacas y el tomate seco troceado en tiras finas. 6. Prepara la vinagreta mezclando el aceite de oliva, vinagre, sal y pimienta hasta emulsionar. 7. Vierte la vinagreta sobre la ensalada y mezcla suavemente para integrar todos los ingredientes sin dañar la pasta ni las hojas. 8. Refrigera la ensalada 10 minutos antes de servir para potenciar sabores y mantener frescura. 9. Emplata en platos fríos para conservar temperatura óptima.",
-  "image": "/src/assets/ensalada-pollo-pasta.png",
+  "image": "/src/assets/ensalada-pollo-pasta.webp",
   "color": "#D3BB88",
   "distribution": {
   "pasta": 80,
