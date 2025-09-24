@@ -11,25 +11,28 @@ Hi Plate is a modern web application designed to simplify your weekly meal plann
 
 ## ✨ Features
 
-### 🍳 Meal Planning
+### Meal Planning
 - **Quick Selection**: Rapidly choose meals for the entire week
 - **Diverse Options**: Access to a large variety of meals and cuisines
 - **Smart Suggestions**: Get personalized meal recommendations
 
-### 🛒 Shopping Lists
+### Shopping Lists
 - **Auto-generated Lists**: Automatically create shopping lists based on your meal selections
 - **Export Capability**: Export lists for easy grocery shopping
 - **Organized Categories**: Items sorted by department for efficient shopping
 
-### 📖 Recipe Management
+### Recipe Management
 - **Recipe Collection**: Access detailed recipes for all selected meals
 - **Cooking Instructions**: Step-by-step guides for home cooking
 - **Export Recipes**: Save or print recipes for kitchen use
 
-### 🎨 Modern Interface
+### Modern Interface
 - **Responsive Design**: Works perfectly on desktop and mobile devices
 - **Intuitive UI**: Clean, user-friendly interface built with modern technologies
 - **Dark/Light Mode**: Choose your preferred theme
+
+## 🎉 Demo
+[DEMO LINK](https://hi-plate-web.web.app/HI-Plate-Web)
 
 ## 🚀 Quick Start
 
